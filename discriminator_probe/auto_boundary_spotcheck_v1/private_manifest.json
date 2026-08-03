@@ -1,0 +1,109 @@
+{
+  "samples": [
+    {
+      "blind_id": "SC01",
+      "source_id": "majo_ep06",
+      "duration": 1.7,
+      "mean_prob": 0.9939,
+      "kind": "sub_window"
+    },
+    {
+      "blind_id": "SC02",
+      "source_id": "majo_ep03",
+      "duration": 1.6,
+      "mean_prob": 0.9937,
+      "kind": "sub_window"
+    },
+    {
+      "blind_id": "SC03",
+      "source_id": "majo_ep05",
+      "duration": 1.64,
+      "mean_prob": 0.9918,
+      "kind": "sub_window"
+    },
+    {
+      "blind_id": "SC04",
+      "source_id": "majo_ep02",
+      "duration": 1.72,
+      "mean_prob": 0.9879,
+      "kind": "sub_window"
+    },
+    {
+      "blind_id": "SC05",
+      "source_id": "majo_ep12",
+      "duration": 1.7,
+      "mean_prob": 0.986,
+      "kind": "sub_window"
+    },
+    {
+      "blind_id": "SC06",
+      "source_id": "243358894-1-192",
+      "duration": 1.54,
+      "mean_prob": 0.9777,
+      "kind": "sub_window"
+    },
+    {
+      "blind_id": "SC07",
+      "source_id": "majo_ep09",
+      "duration": 1.26,
+      "mean_prob": 0.9771,
+      "kind": "extended"
+    },
+    {
+      "blind_id": "SC08",
+      "source_id": "253810599-1-192",
+      "duration": 2.7,
+      "mean_prob": 0.977,
+      "kind": "sub_window"
+    },
+    {
+      "blind_id": "SC09",
+      "source_id": "280479210-1-192",
+      "duration": 1.58,
+      "mean_prob": 0.9682,
+      "kind": "sub_window"
+    },
+    {
+      "blind_id": "SC10",
+      "source_id": "113814583-1-160",
+      "duration": 1.48,
+      "mean_prob": 0.9636,
+      "kind": "extended"
+    },
+    {
+      "blind_id": "SC11",
+      "source_id": "majo_ep11",
+      "duration": 3.18,
+      "mean_prob": 0.9437,
+      "kind": "extended"
+    },
+    {
+      "blind_id": "SC12",
+      "source_id": "37239655783-1-192",
+      "duration": 1.12,
+      "mean_prob": 0.9437,
+      "kind": "extended"
+    },
+    {
+      "blind_id": "SC13",
+      "source_id": "majo_ep08",
+      "duration": 3.68,
+      "mean_prob": 0.94,
+      "kind": "extended"
+    },
+    {
+      "blind_id": "SC14",
+      "source_id": "1405372904-1-192",
+      "duration": 2.22,
+      "mean_prob": 0.9284,
+      "kind": "extended"
+    },
+    {
+      "blind_id": "SC15",
+      "source_id": "1405440540-1-192",
+      "duration": 2.96,
+      "mean_prob": 0.9057,
+      "kind": "extended"
+    }
+  ]
+}

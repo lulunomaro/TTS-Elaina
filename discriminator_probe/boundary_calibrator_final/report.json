@@ -1,0 +1,41 @@
+{
+  "version": "boundary_calibrator_final",
+  "created_at": "2026-08-03T02:59:04.918776+00:00",
+  "total": 11,
+  "duration_sec": 44.24,
+  "needs_rescan": [
+    {
+      "id": "BC006",
+      "source_id": "majo_ep12",
+      "abs_start": 1205.688,
+      "abs_end": 1211.201,
+      "note": "BC006给的可选范围不够大",
+      "win_duration": 7.87
+    },
+    {
+      "id": "BC007",
+      "source_id": "majo_ep12",
+      "abs_start": 330.30699999999996,
+      "abs_end": 335.448,
+      "note": "",
+      "win_duration": 5.56
+    },
+    {
+      "id": "BC008",
+      "source_id": "majo_ep06",
+      "abs_start": 740.9630000000001,
+      "abs_end": 744.575,
+      "note": "给的范围不够大，前面还能选",
+      "win_duration": 3.87
+    },
+    {
+      "id": "BC009",
+      "source_id": "majo_ep06",
+      "abs_start": 317.12100000000004,
+      "abs_end": 322.59700000000004,
+      "note": "可选范围还是不够大",
+      "win_duration": 5.58
+    }
+  ],
+  "list": "F:\\GPTSOVITS\\discriminator_probe\\boundary_calibrator_final\\boundary_calibrator_final.list"
+}

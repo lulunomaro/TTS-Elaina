@@ -1,0 +1,25 @@
+{
+  "version": "boundary_calibrator_edge_audit",
+  "samples": [
+    {
+      "id": "EC001",
+      "audio": "audio/EC001.wav",
+      "duration": 9.813
+    },
+    {
+      "id": "EC002",
+      "audio": "audio/EC002.wav",
+      "duration": 9.44
+    },
+    {
+      "id": "EC003",
+      "audio": "audio/EC003.wav",
+      "duration": 7.92
+    },
+    {
+      "id": "EC004",
+      "audio": "audio/EC004.wav",
+      "duration": 9.78
+    }
+  ]
+}

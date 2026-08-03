@@ -1,0 +1,44 @@
+{
+  "version": "discriminator_priority_review_v3_report",
+  "created_at": "2026-08-03T00:58:55.133151+00:00",
+  "input": {
+    "anime": 431,
+    "radio": 448
+  },
+  "excluded_heard": 96,
+  "selected_count": 48,
+  "selected_duration_sec": 104.53,
+  "per_pool": {
+    "anime": 24,
+    "radio": 24
+  },
+  "per_source": {
+    "majo_ep03": 2,
+    "majo_ep02": 2,
+    "majo_ep05": 2,
+    "majo_ep01": 2,
+    "majo_ep06": 2,
+    "majo_ep09": 2,
+    "majo_ep12": 2,
+    "majo_ep04": 2,
+    "majo_ep07": 2,
+    "majo_ep11": 2,
+    "majo_ep08": 2,
+    "majo_ep10": 2,
+    "253810599-1-192": 2,
+    "243358894-1-192": 2,
+    "113814583-1-160": 2,
+    "280479210-1-192": 2,
+    "28243657968-1-192": 2,
+    "1405372904-1-192": 2,
+    "37239655783-1-192": 2,
+    "1405440540-1-192": 2,
+    "306672160-1-192": 2,
+    "28055832533-1-192": 2,
+    "37141415568-1-192": 2,
+    "1311215796_u1-1-192": 2
+  },
+  "machine_scores_hidden_in_html": true,
+  "training_started": false,
+  "existing_training_lists_modified": false
+}

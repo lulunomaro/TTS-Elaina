@@ -1,0 +1,343 @@
+{
+  "version": "boundary_fix_v4_final",
+  "created_at": "2026-08-03T02:27:51.141117+00:00",
+  "origins": 14,
+  "passed_origins": 7,
+  "abandoned_origins": 7,
+  "passed_duration_sec": 29.28,
+  "abandoned": [
+    {
+      "origin": "DP003",
+      "results": [
+        {
+          "blind_id": "XV003",
+          "offset": -0.08,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV003.wav",
+          "source_id": "majo_ep06",
+          "start": 640.31,
+          "end": 643.71,
+          "duration": 3.4,
+          "mean_prob": 0.976
+        },
+        {
+          "blind_id": "XV002",
+          "offset": -0.04,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV002.wav",
+          "source_id": "majo_ep06",
+          "start": 640.35,
+          "end": 643.71,
+          "duration": 3.36,
+          "mean_prob": 0.976
+        },
+        {
+          "blind_id": "XV001",
+          "offset": 0.0,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV001.wav",
+          "source_id": "majo_ep06",
+          "start": 640.39,
+          "end": 643.71,
+          "duration": 3.32,
+          "mean_prob": 0.976
+        }
+      ]
+    },
+    {
+      "origin": "DP009",
+      "results": [
+        {
+          "blind_id": "XV009",
+          "offset": -0.08,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV009.wav",
+          "source_id": "majo_ep09",
+          "start": 541.98,
+          "end": 543.24,
+          "duration": 1.26,
+          "mean_prob": 0.977
+        },
+        {
+          "blind_id": "XV008",
+          "offset": -0.04,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV008.wav",
+          "source_id": "majo_ep09",
+          "start": 542.02,
+          "end": 543.24,
+          "duration": 1.22,
+          "mean_prob": 0.977
+        },
+        {
+          "blind_id": "XV007",
+          "offset": 0.0,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV007.wav",
+          "source_id": "majo_ep09",
+          "start": 542.06,
+          "end": 543.24,
+          "duration": 1.18,
+          "mean_prob": 0.977
+        }
+      ]
+    },
+    {
+      "origin": "DP012",
+      "results": [
+        {
+          "blind_id": "XV033",
+          "offset": -0.08,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV033.wav",
+          "source_id": "majo_ep12",
+          "start": 330.13,
+          "end": 334.85,
+          "duration": 4.72,
+          "mean_prob": 0.894
+        },
+        {
+          "blind_id": "XV032",
+          "offset": -0.04,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV032.wav",
+          "source_id": "majo_ep12",
+          "start": 330.17,
+          "end": 334.85,
+          "duration": 4.68,
+          "mean_prob": 0.894
+        },
+        {
+          "blind_id": "XV031",
+          "offset": 0.0,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV031.wav",
+          "source_id": "majo_ep12",
+          "start": 330.21,
+          "end": 334.85,
+          "duration": 4.64,
+          "mean_prob": 0.894
+        }
+      ]
+    },
+    {
+      "origin": "DP013",
+      "results": [
+        {
+          "blind_id": "XV036",
+          "offset": -0.08,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV036.wav",
+          "source_id": "majo_ep06",
+          "start": 741.49,
+          "end": 744.63,
+          "duration": 3.14,
+          "mean_prob": 0.959
+        },
+        {
+          "blind_id": "XV035",
+          "offset": -0.04,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV035.wav",
+          "source_id": "majo_ep06",
+          "start": 741.53,
+          "end": 744.63,
+          "duration": 3.1,
+          "mean_prob": 0.959
+        },
+        {
+          "blind_id": "XV034",
+          "offset": 0.0,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV034.wav",
+          "source_id": "majo_ep06",
+          "start": 741.57,
+          "end": 744.63,
+          "duration": 3.06,
+          "mean_prob": 0.959
+        }
+      ]
+    },
+    {
+      "origin": "DP014",
+      "results": [
+        {
+          "blind_id": "XV039",
+          "offset": -0.08,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV039.wav",
+          "source_id": "majo_ep06",
+          "start": 318.24,
+          "end": 321.9,
+          "duration": 3.66,
+          "mean_prob": 0.959
+        },
+        {
+          "blind_id": "XV038",
+          "offset": -0.04,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV038.wav",
+          "source_id": "majo_ep06",
+          "start": 318.28,
+          "end": 321.9,
+          "duration": 3.62,
+          "mean_prob": 0.959
+        },
+        {
+          "blind_id": "XV037",
+          "offset": 0.0,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV037.wav",
+          "source_id": "majo_ep06",
+          "start": 318.32,
+          "end": 321.9,
+          "duration": 3.58,
+          "mean_prob": 0.959
+        }
+      ]
+    },
+    {
+      "origin": "DP015",
+      "results": [
+        {
+          "blind_id": "XV015",
+          "offset": -0.08,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV015.wav",
+          "source_id": "majo_ep06",
+          "start": 676.55,
+          "end": 680.07,
+          "duration": 3.52,
+          "mean_prob": 0.991
+        },
+        {
+          "blind_id": "XV042",
+          "offset": -0.08,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV042.wav",
+          "source_id": "majo_ep02",
+          "start": 791.73,
+          "end": 794.49,
+          "duration": 2.76,
+          "mean_prob": 0.951
+        },
+        {
+          "blind_id": "XV014",
+          "offset": -0.04,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV014.wav",
+          "source_id": "majo_ep06",
+          "start": 676.59,
+          "end": 680.07,
+          "duration": 3.48,
+          "mean_prob": 0.991
+        },
+        {
+          "blind_id": "XV041",
+          "offset": -0.04,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV041.wav",
+          "source_id": "majo_ep02",
+          "start": 791.77,
+          "end": 794.49,
+          "duration": 2.72,
+          "mean_prob": 0.951
+        },
+        {
+          "blind_id": "XV013",
+          "offset": 0.0,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV013.wav",
+          "source_id": "majo_ep06",
+          "start": 676.63,
+          "end": 680.07,
+          "duration": 3.44,
+          "mean_prob": 0.991
+        },
+        {
+          "blind_id": "XV040",
+          "offset": 0.0,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV040.wav",
+          "source_id": "majo_ep02",
+          "start": 791.81,
+          "end": 794.49,
+          "duration": 2.68,
+          "mean_prob": 0.951
+        }
+      ]
+    },
+    {
+      "origin": "DP020",
+      "results": [
+        {
+          "blind_id": "XV018",
+          "offset": -0.08,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV018.wav",
+          "source_id": "majo_ep12",
+          "start": 1207.7,
+          "end": 1211.24,
+          "duration": 3.54,
+          "mean_prob": 0.961
+        },
+        {
+          "blind_id": "XV048",
+          "offset": -0.08,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV048.wav",
+          "source_id": "majo_ep06",
+          "start": 803.6,
+          "end": 808.8,
+          "duration": 5.2,
+          "mean_prob": 0.926
+        },
+        {
+          "blind_id": "XV017",
+          "offset": -0.04,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV017.wav",
+          "source_id": "majo_ep12",
+          "start": 1207.74,
+          "end": 1211.24,
+          "duration": 3.5,
+          "mean_prob": 0.961
+        },
+        {
+          "blind_id": "XV047",
+          "offset": -0.04,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV047.wav",
+          "source_id": "majo_ep06",
+          "start": 803.64,
+          "end": 808.8,
+          "duration": 5.16,
+          "mean_prob": 0.926
+        },
+        {
+          "blind_id": "XV016",
+          "offset": 0.0,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV016.wav",
+          "source_id": "majo_ep12",
+          "start": 1207.78,
+          "end": 1211.24,
+          "duration": 3.46,
+          "mean_prob": 0.961
+        },
+        {
+          "blind_id": "XV046",
+          "offset": 0.0,
+          "class": "boundary_cut",
+          "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_spotcheck_v2\\audio\\XV046.wav",
+          "source_id": "majo_ep06",
+          "start": 803.68,
+          "end": 808.8,
+          "duration": 5.12,
+          "mean_prob": 0.926
+        }
+      ]
+    }
+  ],
+  "list": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v4_final.list"
+}

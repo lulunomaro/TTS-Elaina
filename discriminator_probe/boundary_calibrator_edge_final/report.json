@@ -1,0 +1,85 @@
+{
+  "version": "boundary_calibrator_edge_final",
+  "created_at": "2026-08-03T03:21:53.599336+00:00",
+  "total": 7,
+  "duration_sec": 26.65,
+  "samples": [
+    {
+      "blind_id": "EF001",
+      "id": "EC001",
+      "origin_blind_id": "BC006",
+      "source_id": "majo_ep12",
+      "abs_start": 1202.61,
+      "abs_end": 1207.78,
+      "duration": 5.17,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_calibrator_edge_final\\audio\\EF000.wav",
+      "split": true
+    },
+    {
+      "blind_id": "EF002",
+      "id": "EC001",
+      "origin_blind_id": "BC006",
+      "source_id": "majo_ep12",
+      "abs_start": 1207.78,
+      "abs_end": 1211.201,
+      "duration": 3.421,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_calibrator_edge_final\\audio\\EF001.wav",
+      "split": true
+    },
+    {
+      "blind_id": "EF003",
+      "id": "EC002",
+      "origin_blind_id": "BC007",
+      "source_id": "majo_ep12",
+      "abs_start": 330.21,
+      "abs_end": 334.83,
+      "duration": 4.62,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_calibrator_edge_final\\audio\\EF002.wav",
+      "split": true
+    },
+    {
+      "blind_id": "EF004",
+      "id": "EC003",
+      "origin_blind_id": "BC008",
+      "source_id": "majo_ep06",
+      "abs_start": 739.362,
+      "abs_end": 744.583,
+      "duration": 5.221,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_calibrator_edge_final\\audio\\EF003.wav",
+      "split": false
+    },
+    {
+      "blind_id": "EF005",
+      "id": "EC004",
+      "origin_blind_id": "BC009",
+      "source_id": "majo_ep06",
+      "abs_start": 313.658,
+      "abs_end": 315.02,
+      "duration": 1.362,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_calibrator_edge_final\\audio\\EF004.wav",
+      "split": true
+    },
+    {
+      "blind_id": "EF006",
+      "id": "EC004",
+      "origin_blind_id": "BC009",
+      "source_id": "majo_ep06",
+      "abs_start": 315.02,
+      "abs_end": 318.32,
+      "duration": 3.3,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_calibrator_edge_final\\audio\\EF005.wav",
+      "split": true
+    },
+    {
+      "blind_id": "EF007",
+      "id": "EC004",
+      "origin_blind_id": "BC009",
+      "source_id": "majo_ep06",
+      "abs_start": 318.32,
+      "abs_end": 321.88,
+      "duration": 3.56,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_calibrator_edge_final\\audio\\EF006.wav",
+      "split": true
+    }
+  ]
+}

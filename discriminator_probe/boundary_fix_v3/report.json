@@ -1,0 +1,779 @@
+{
+  "version": "boundary_fix_v3",
+  "created_at": "2026-08-03T01:27:41.511465+00:00",
+  "input": 74,
+  "unique": 74,
+  "repaired": 44,
+  "failed": [
+    {
+      "source_id": "majo_ep06",
+      "start": 587.38,
+      "end": 589.62,
+      "origin": "v1",
+      "blind_id": "DP001",
+      "reason": "duration_13.90"
+    },
+    {
+      "source_id": "majo_ep06",
+      "start": 641.74,
+      "end": 643.94,
+      "origin": "v1",
+      "blind_id": "DP003",
+      "reason": "duration_7.29"
+    },
+    {
+      "source_id": "majo_ep02",
+      "start": 688.71,
+      "end": 690.6,
+      "origin": "v1",
+      "blind_id": "DP004",
+      "reason": "duration_6.70"
+    },
+    {
+      "source_id": "majo_ep03",
+      "start": 1310.83,
+      "end": 1314.09,
+      "origin": "v1",
+      "blind_id": "DP007",
+      "reason": "duration_17.90"
+    },
+    {
+      "source_id": "majo_ep05",
+      "start": 1200.57,
+      "end": 1205.56,
+      "origin": "v1",
+      "blind_id": "DP010",
+      "reason": "duration_34.14"
+    },
+    {
+      "source_id": "majo_ep03",
+      "start": 403.03,
+      "end": 408.73,
+      "origin": "v1",
+      "blind_id": "DP011",
+      "reason": "duration_26.01"
+    },
+    {
+      "source_id": "majo_ep06",
+      "start": 674.68,
+      "end": 679.85,
+      "origin": "v1",
+      "blind_id": "DP015",
+      "reason": "duration_20.71"
+    },
+    {
+      "source_id": "majo_ep02",
+      "start": 910.29,
+      "end": 911.66,
+      "origin": "v1",
+      "blind_id": "DP017",
+      "reason": "duration_9.88"
+    },
+    {
+      "source_id": "majo_ep12",
+      "start": 1206.88,
+      "end": 1212.75,
+      "origin": "v1",
+      "blind_id": "DP020",
+      "reason": "duration_28.88"
+    },
+    {
+      "source_id": "majo_ep03",
+      "start": 1321.59,
+      "end": 1324.69,
+      "origin": "v1",
+      "blind_id": "DP021",
+      "reason": "duration_19.08"
+    },
+    {
+      "source_id": "243358894-1-192",
+      "start": 494.16,
+      "end": 495.31,
+      "origin": "v1",
+      "blind_id": "DP025",
+      "reason": "duration_10.83"
+    },
+    {
+      "source_id": "253810599-1-192",
+      "start": 32.66,
+      "end": 34.5,
+      "origin": "v1",
+      "blind_id": "DP030",
+      "reason": "duration_7.56"
+    },
+    {
+      "source_id": "243358894-1-192",
+      "start": 1865.27,
+      "end": 1867.51,
+      "origin": "v1",
+      "blind_id": "DP031",
+      "reason": "duration_18.73"
+    },
+    {
+      "source_id": "majo_ep06",
+      "start": 595.64,
+      "end": 597.53,
+      "origin": "v2",
+      "blind_id": "DP001",
+      "reason": "duration_13.90"
+    },
+    {
+      "source_id": "majo_ep02",
+      "start": 1300.32,
+      "end": 1304.6,
+      "origin": "v2",
+      "blind_id": "DP002",
+      "reason": "duration_14.94"
+    },
+    {
+      "source_id": "majo_ep02",
+      "start": 702.44,
+      "end": 703.78,
+      "origin": "v2",
+      "blind_id": "DP007",
+      "reason": "duration_6.70"
+    },
+    {
+      "source_id": "majo_ep02",
+      "start": 172.03,
+      "end": 173.89,
+      "origin": "v2",
+      "blind_id": "DP011",
+      "reason": "duration_13.22"
+    },
+    {
+      "source_id": "majo_ep06",
+      "start": 742.03,
+      "end": 743.9,
+      "origin": "v2",
+      "blind_id": "DP013",
+      "reason": "duration_17.59"
+    },
+    {
+      "source_id": "majo_ep06",
+      "start": 318.31,
+      "end": 321.89,
+      "origin": "v2",
+      "blind_id": "DP014",
+      "reason": "duration_11.63"
+    },
+    {
+      "source_id": "majo_ep02",
+      "start": 792.39,
+      "end": 794.11,
+      "origin": "v2",
+      "blind_id": "DP015",
+      "reason": "duration_21.63"
+    },
+    {
+      "source_id": "majo_ep03",
+      "start": 1138.41,
+      "end": 1140.9,
+      "origin": "v2",
+      "blind_id": "DP016",
+      "reason": "duration_12.02"
+    },
+    {
+      "source_id": "majo_ep02",
+      "start": 800.82,
+      "end": 802.25,
+      "origin": "v2",
+      "blind_id": "DP018",
+      "reason": "duration_21.63"
+    },
+    {
+      "source_id": "majo_ep11",
+      "start": 1323.86,
+      "end": 1326.34,
+      "origin": "v2",
+      "blind_id": "DP024",
+      "reason": "duration_6.48"
+    },
+    {
+      "source_id": "243358894-1-192",
+      "start": 1219.83,
+      "end": 1220.93,
+      "origin": "v2",
+      "blind_id": "DP025",
+      "reason": "duration_9.54"
+    },
+    {
+      "source_id": "243358894-1-192",
+      "start": 1880.74,
+      "end": 1881.92,
+      "origin": "v2",
+      "blind_id": "DP027",
+      "reason": "duration_19.05"
+    },
+    {
+      "source_id": "253810599-1-192",
+      "start": 284.92,
+      "end": 287.49,
+      "origin": "v2",
+      "blind_id": "DP029",
+      "reason": "duration_6.44"
+    },
+    {
+      "source_id": "243358894-1-192",
+      "start": 1874.98,
+      "end": 1877.67,
+      "origin": "v2",
+      "blind_id": "DP032",
+      "reason": "duration_18.73"
+    },
+    {
+      "source_id": "253810599-1-192",
+      "start": 244.08,
+      "end": 246.71,
+      "origin": "v2",
+      "blind_id": "DP035",
+      "reason": "duration_7.20"
+    },
+    {
+      "source_id": "243358894-1-192",
+      "start": 473.1,
+      "end": 474.79,
+      "origin": "v2",
+      "blind_id": "DP040",
+      "reason": "duration_8.70"
+    },
+    {
+      "source_id": "280479210-1-192",
+      "start": 391.12,
+      "end": 392.12,
+      "origin": "v2",
+      "blind_id": "DP041",
+      "reason": "duration_8.11"
+    }
+  ],
+  "samples": [
+    {
+      "blind_id": "BF001",
+      "source_id": "majo_ep01",
+      "origin": "v1",
+      "origin_blind_id": "DP002",
+      "old_start": 535.85,
+      "old_end": 536.79,
+      "new_start": 534.09,
+      "new_end": 537.91,
+      "duration": 3.82,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF001.wav"
+    },
+    {
+      "blind_id": "BF002",
+      "source_id": "majo_ep06",
+      "origin": "v1",
+      "origin_blind_id": "DP005",
+      "old_start": 24.48,
+      "old_end": 26.94,
+      "new_start": 23.29,
+      "new_end": 28.13,
+      "duration": 4.84,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF002.wav"
+    },
+    {
+      "blind_id": "BF003",
+      "source_id": "majo_ep09",
+      "origin": "v1",
+      "origin_blind_id": "DP009",
+      "old_start": 541.33,
+      "old_end": 543.24,
+      "new_start": 540.14,
+      "new_end": 544.43,
+      "duration": 4.29,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF003.wav"
+    },
+    {
+      "blind_id": "BF004",
+      "source_id": "majo_ep06",
+      "origin": "v1",
+      "origin_blind_id": "DP013",
+      "old_start": 1046.04,
+      "old_end": 1048.37,
+      "new_start": 1045.03,
+      "new_end": 1049.56,
+      "duration": 4.53,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF004.wav"
+    },
+    {
+      "blind_id": "BF005",
+      "source_id": "majo_ep06",
+      "origin": "v1",
+      "origin_blind_id": "DP014",
+      "old_start": 722.5,
+      "old_end": 726.38,
+      "new_start": 721.71,
+      "new_end": 727.57,
+      "duration": 5.86,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF005.wav"
+    },
+    {
+      "blind_id": "BF006",
+      "source_id": "majo_ep06",
+      "origin": "v1",
+      "origin_blind_id": "DP016",
+      "old_start": 489.49,
+      "old_end": 491.61,
+      "new_start": 488.65,
+      "new_end": 492.8,
+      "duration": 4.15,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF006.wav"
+    },
+    {
+      "blind_id": "BF007",
+      "source_id": "majo_ep06",
+      "origin": "v1",
+      "origin_blind_id": "DP022",
+      "old_start": 202.4,
+      "old_end": 206.57,
+      "new_start": 201.21,
+      "new_end": 206.4,
+      "duration": 5.19,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF007.wav"
+    },
+    {
+      "blind_id": "BF008",
+      "source_id": "majo_ep11",
+      "origin": "v1",
+      "origin_blind_id": "DP023",
+      "old_start": 1115.88,
+      "old_end": 1118.27,
+      "new_start": 1114.74,
+      "new_end": 1118.91,
+      "duration": 4.17,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF008.wav"
+    },
+    {
+      "blind_id": "BF009",
+      "source_id": "majo_ep08",
+      "origin": "v1",
+      "origin_blind_id": "DP024",
+      "old_start": 842.2,
+      "old_end": 843.78,
+      "new_start": 840.78,
+      "new_end": 844.57,
+      "duration": 3.79,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF009.wav"
+    },
+    {
+      "blind_id": "BF010",
+      "source_id": "253810599-1-192",
+      "origin": "v1",
+      "origin_blind_id": "DP026",
+      "old_start": 105.14,
+      "old_end": 106.49,
+      "new_start": 104.76,
+      "new_end": 109.67,
+      "duration": 4.91,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF010.wav"
+    },
+    {
+      "blind_id": "BF011",
+      "source_id": "243358894-1-192",
+      "origin": "v1",
+      "origin_blind_id": "DP027",
+      "old_start": 1860.4,
+      "old_end": 1861.92,
+      "new_start": 1859.22,
+      "new_end": 1863.11,
+      "duration": 3.89,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF011.wav"
+    },
+    {
+      "blind_id": "BF012",
+      "source_id": "253810599-1-192",
+      "origin": "v1",
+      "origin_blind_id": "DP028",
+      "old_start": 1561.19,
+      "old_end": 1562.88,
+      "new_start": 1560.0,
+      "new_end": 1564.07,
+      "duration": 4.07,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF012.wav"
+    },
+    {
+      "blind_id": "BF013",
+      "source_id": "243358894-1-192",
+      "origin": "v1",
+      "origin_blind_id": "DP029",
+      "old_start": 972.76,
+      "old_end": 975.01,
+      "new_start": 971.57,
+      "new_end": 976.2,
+      "duration": 4.63,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF013.wav"
+    },
+    {
+      "blind_id": "BF014",
+      "source_id": "113814583-1-160",
+      "origin": "v1",
+      "origin_blind_id": "DP034",
+      "old_start": 2.01,
+      "old_end": 3.46,
+      "new_start": 2.03,
+      "new_end": 4.65,
+      "duration": 2.62,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF014.wav"
+    },
+    {
+      "blind_id": "BF015",
+      "source_id": "243358894-1-192",
+      "origin": "v1",
+      "origin_blind_id": "DP036",
+      "old_start": 804.69,
+      "old_end": 806.28,
+      "new_start": 803.51,
+      "new_end": 807.47,
+      "duration": 3.96,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF015.wav"
+    },
+    {
+      "blind_id": "BF016",
+      "source_id": "253810599-1-192",
+      "origin": "v1",
+      "origin_blind_id": "DP039",
+      "old_start": 1213.14,
+      "old_end": 1214.26,
+      "new_start": 1211.77,
+      "new_end": 1215.45,
+      "duration": 3.68,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF016.wav"
+    },
+    {
+      "blind_id": "BF017",
+      "source_id": "28243657968-1-192",
+      "origin": "v1",
+      "origin_blind_id": "DP041",
+      "old_start": 1256.83,
+      "old_end": 1258.14,
+      "new_start": 1255.48,
+      "new_end": 1259.36,
+      "duration": 3.88,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF017.wav"
+    },
+    {
+      "blind_id": "BF018",
+      "source_id": "1405440540-1-192",
+      "origin": "v1",
+      "origin_blind_id": "DP042",
+      "old_start": 232.99,
+      "old_end": 234.23,
+      "new_start": 231.85,
+      "new_end": 235.67,
+      "duration": 3.82,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF018.wav"
+    },
+    {
+      "blind_id": "BF019",
+      "source_id": "37239655783-1-192",
+      "origin": "v1",
+      "origin_blind_id": "DP043",
+      "old_start": 81.42,
+      "old_end": 82.47,
+      "new_start": 80.23,
+      "new_end": 83.66,
+      "duration": 3.43,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF019.wav"
+    },
+    {
+      "blind_id": "BF020",
+      "source_id": "280479210-1-192",
+      "origin": "v1",
+      "origin_blind_id": "DP044",
+      "old_start": 218.28,
+      "old_end": 219.6,
+      "new_start": 217.09,
+      "new_end": 220.79,
+      "duration": 3.7,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF020.wav"
+    },
+    {
+      "blind_id": "BF021",
+      "source_id": "28055832533-1-192",
+      "origin": "v1",
+      "origin_blind_id": "DP046",
+      "old_start": 373.4,
+      "old_end": 374.49,
+      "new_start": 372.21,
+      "new_end": 375.68,
+      "duration": 3.47,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF021.wav"
+    },
+    {
+      "blind_id": "BF022",
+      "source_id": "37141415568-1-192",
+      "origin": "v1",
+      "origin_blind_id": "DP047",
+      "old_start": 453.11,
+      "old_end": 454.4,
+      "new_start": 451.92,
+      "new_end": 455.59,
+      "duration": 3.67,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF022.wav"
+    },
+    {
+      "blind_id": "BF023",
+      "source_id": "1311215796_u1-1-192",
+      "origin": "v1",
+      "origin_blind_id": "DP048",
+      "old_start": 563.85,
+      "old_end": 564.99,
+      "new_start": 562.66,
+      "new_end": 566.18,
+      "duration": 3.52,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF023.wav"
+    },
+    {
+      "blind_id": "BF024",
+      "source_id": "majo_ep02",
+      "origin": "v2",
+      "origin_blind_id": "DP004",
+      "old_start": 1182.67,
+      "old_end": 1183.67,
+      "new_start": 1181.48,
+      "new_end": 1185.9,
+      "duration": 4.42,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF024.wav"
+    },
+    {
+      "blind_id": "BF025",
+      "source_id": "majo_ep01",
+      "origin": "v2",
+      "origin_blind_id": "DP006",
+      "old_start": 1238.9,
+      "old_end": 1241.35,
+      "new_start": 1237.31,
+      "new_end": 1240.68,
+      "duration": 3.37,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF025.wav"
+    },
+    {
+      "blind_id": "BF026",
+      "source_id": "majo_ep12",
+      "origin": "v2",
+      "origin_blind_id": "DP012",
+      "old_start": 331.48,
+      "old_end": 335.04,
+      "new_start": 330.29,
+      "new_end": 336.23,
+      "duration": 5.94,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF026.wav"
+    },
+    {
+      "blind_id": "BF027",
+      "source_id": "majo_ep05",
+      "origin": "v2",
+      "origin_blind_id": "DP017",
+      "old_start": 1045.82,
+      "old_end": 1048.72,
+      "new_start": 1045.63,
+      "new_end": 1051.33,
+      "duration": 5.7,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF027.wav"
+    },
+    {
+      "blind_id": "BF028",
+      "source_id": "majo_ep06",
+      "origin": "v2",
+      "origin_blind_id": "DP019",
+      "old_start": 506.99,
+      "old_end": 509.33,
+      "new_start": 505.35,
+      "new_end": 510.52,
+      "duration": 5.17,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF028.wav"
+    },
+    {
+      "blind_id": "BF029",
+      "source_id": "majo_ep06",
+      "origin": "v2",
+      "origin_blind_id": "DP020",
+      "old_start": 804.33,
+      "old_end": 805.53,
+      "new_start": 803.14,
+      "new_end": 808.81,
+      "duration": 5.67,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF029.wav"
+    },
+    {
+      "blind_id": "BF030",
+      "source_id": "majo_ep08",
+      "origin": "v2",
+      "origin_blind_id": "DP023",
+      "old_start": 721.24,
+      "old_end": 723.0,
+      "new_start": 719.36,
+      "new_end": 724.09,
+      "duration": 4.73,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF030.wav"
+    },
+    {
+      "blind_id": "BF031",
+      "source_id": "243358894-1-192",
+      "origin": "v2",
+      "origin_blind_id": "DP026",
+      "old_start": 1636.68,
+      "old_end": 1639.25,
+      "new_start": 1635.21,
+      "new_end": 1640.63,
+      "duration": 5.42,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF031.wav"
+    },
+    {
+      "blind_id": "BF032",
+      "source_id": "243358894-1-192",
+      "origin": "v2",
+      "origin_blind_id": "DP028",
+      "old_start": 1009.04,
+      "old_end": 1010.9,
+      "new_start": 1007.85,
+      "new_end": 1012.09,
+      "duration": 4.24,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF032.wav"
+    },
+    {
+      "blind_id": "BF033",
+      "source_id": "1405372904-1-192",
+      "origin": "v2",
+      "origin_blind_id": "DP031",
+      "old_start": 306.42,
+      "old_end": 307.88,
+      "new_start": 305.23,
+      "new_end": 308.98,
+      "duration": 3.75,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF033.wav"
+    },
+    {
+      "blind_id": "BF034",
+      "source_id": "113814583-1-160",
+      "origin": "v2",
+      "origin_blind_id": "DP033",
+      "old_start": 254.49,
+      "old_end": 255.71,
+      "new_start": 253.56,
+      "new_end": 256.59,
+      "duration": 3.03,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF034.wav"
+    },
+    {
+      "blind_id": "BF035",
+      "source_id": "243358894-1-192",
+      "origin": "v2",
+      "origin_blind_id": "DP034",
+      "old_start": 1121.17,
+      "old_end": 1122.17,
+      "new_start": 1119.64,
+      "new_end": 1123.36,
+      "duration": 3.72,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF035.wav"
+    },
+    {
+      "blind_id": "BF036",
+      "source_id": "253810599-1-192",
+      "origin": "v2",
+      "origin_blind_id": "DP037",
+      "old_start": 920.5,
+      "old_end": 921.71,
+      "new_start": 919.31,
+      "new_end": 922.89,
+      "duration": 3.58,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF036.wav"
+    },
+    {
+      "blind_id": "BF037",
+      "source_id": "243358894-1-192",
+      "origin": "v2",
+      "origin_blind_id": "DP038",
+      "old_start": 788.61,
+      "old_end": 789.76,
+      "new_start": 786.97,
+      "new_end": 790.95,
+      "duration": 3.98,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF037.wav"
+    },
+    {
+      "blind_id": "BF038",
+      "source_id": "253810599-1-192",
+      "origin": "v2",
+      "origin_blind_id": "DP039",
+      "old_start": 1177.79,
+      "old_end": 1179.05,
+      "new_start": 1176.6,
+      "new_end": 1179.4,
+      "duration": 2.8,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF038.wav"
+    },
+    {
+      "blind_id": "BF039",
+      "source_id": "37239655783-1-192",
+      "origin": "v2",
+      "origin_blind_id": "DP042",
+      "old_start": 1037.79,
+      "old_end": 1038.77,
+      "new_start": 1036.6,
+      "new_end": 1039.96,
+      "duration": 3.36,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF039.wav"
+    },
+    {
+      "blind_id": "BF040",
+      "source_id": "1405440540-1-192",
+      "origin": "v2",
+      "origin_blind_id": "DP043",
+      "old_start": 47.13,
+      "old_end": 49.08,
+      "new_start": 45.94,
+      "new_end": 50.32,
+      "duration": 4.38,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF040.wav"
+    },
+    {
+      "blind_id": "BF041",
+      "source_id": "28055832533-1-192",
+      "origin": "v2",
+      "origin_blind_id": "DP044",
+      "old_start": 669.2,
+      "old_end": 670.2,
+      "new_start": 668.01,
+      "new_end": 671.39,
+      "duration": 3.38,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF041.wav"
+    },
+    {
+      "blind_id": "BF042",
+      "source_id": "306672160-1-192",
+      "origin": "v2",
+      "origin_blind_id": "DP046",
+      "old_start": 166.32,
+      "old_end": 167.52,
+      "new_start": 165.13,
+      "new_end": 168.71,
+      "duration": 3.58,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF042.wav"
+    },
+    {
+      "blind_id": "BF043",
+      "source_id": "1311215796_u1-1-192",
+      "origin": "v2",
+      "origin_blind_id": "DP047",
+      "old_start": 209.41,
+      "old_end": 210.93,
+      "new_start": 208.33,
+      "new_end": 212.12,
+      "duration": 3.79,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF043.wav"
+    },
+    {
+      "blind_id": "BF044",
+      "source_id": "37141415568-1-192",
+      "origin": "v2",
+      "origin_blind_id": "DP048",
+      "old_start": 48.17,
+      "old_end": 50.45,
+      "new_start": 47.0,
+      "new_end": 51.64,
+      "duration": 4.64,
+      "audio": "F:\\GPTSOVITS\\discriminator_probe\\boundary_fix_v3\\audio\\BF044.wav"
+    }
+  ]
+}
