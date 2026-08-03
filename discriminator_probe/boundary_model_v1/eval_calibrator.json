@@ -1,0 +1,7 @@
+{
+  "version": "boundary_model_eval_v1",
+  "n_boundaries": 36,
+  "mean_err_ms": 640.0,
+  "median_err_ms": 720.0,
+  "p90_err_ms": 770.0
+}

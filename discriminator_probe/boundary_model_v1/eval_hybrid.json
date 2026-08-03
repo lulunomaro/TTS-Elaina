@@ -1,0 +1,262 @@
+{
+  "version": "hybrid_boundary_rule_eval",
+  "n": 36,
+  "mean_err_ms": 212.1,
+  "median_err_ms": 100.0,
+  "pct_le_50ms": 27.8,
+  "pct_le_100ms": 44.4,
+  "details": [
+    {
+      "id": "EC001",
+      "kind": "start",
+      "human": 1202.61,
+      "model": 1204.9,
+      "err_ms": 2290.0
+    },
+    {
+      "id": "EC001",
+      "kind": "end",
+      "human": 1207.78,
+      "model": 1207.88,
+      "err_ms": 100.0
+    },
+    {
+      "id": "EC001",
+      "kind": "start",
+      "human": 1207.78,
+      "model": 1207.88,
+      "err_ms": 100.0
+    },
+    {
+      "id": "EC001",
+      "kind": "end",
+      "human": 1211.201,
+      "model": 1211.36,
+      "err_ms": 159.0
+    },
+    {
+      "id": "EC002",
+      "kind": "start",
+      "human": 330.21,
+      "model": 330.32,
+      "err_ms": 110.0
+    },
+    {
+      "id": "EC002",
+      "kind": "end",
+      "human": 334.83,
+      "model": 334.93,
+      "err_ms": 100.0
+    },
+    {
+      "id": "EC003",
+      "kind": "start",
+      "human": 739.362,
+      "model": 739.39,
+      "err_ms": 28.0
+    },
+    {
+      "id": "EC003",
+      "kind": "end",
+      "human": 744.583,
+      "model": 744.51,
+      "err_ms": 73.0
+    },
+    {
+      "id": "EC004",
+      "kind": "start",
+      "human": 313.658,
+      "model": 313.68,
+      "err_ms": 22.0
+    },
+    {
+      "id": "EC004",
+      "kind": "end",
+      "human": 315.02,
+      "model": 315.21,
+      "err_ms": 190.0
+    },
+    {
+      "id": "EC004",
+      "kind": "start",
+      "human": 315.02,
+      "model": 314.71,
+      "err_ms": 310.0
+    },
+    {
+      "id": "EC004",
+      "kind": "end",
+      "human": 318.32,
+      "model": 318.36,
+      "err_ms": 40.0
+    },
+    {
+      "id": "EC004",
+      "kind": "start",
+      "human": 318.32,
+      "model": 318.35,
+      "err_ms": 30.0
+    },
+    {
+      "id": "EC004",
+      "kind": "end",
+      "human": 321.88,
+      "model": 321.97,
+      "err_ms": 90.0
+    },
+    {
+      "id": "BC001",
+      "kind": "start",
+      "human": 640.684,
+      "model": 640.95,
+      "err_ms": 266.0
+    },
+    {
+      "id": "BC001",
+      "kind": "end",
+      "human": 643.865,
+      "model": 643.69,
+      "err_ms": 175.0
+    },
+    {
+      "id": "BC002",
+      "kind": "start",
+      "human": 541.783,
+      "model": 541.94,
+      "err_ms": 157.0
+    },
+    {
+      "id": "BC002",
+      "kind": "end",
+      "human": 543.42,
+      "model": 543.42,
+      "err_ms": 0.0
+    },
+    {
+      "id": "BC003",
+      "kind": "start",
+      "human": 1045.09,
+      "model": 1045.06,
+      "err_ms": 30.0
+    },
+    {
+      "id": "BC003",
+      "kind": "end",
+      "human": 1048.386,
+      "model": 1048.14,
+      "err_ms": 246.0
+    },
+    {
+      "id": "BC004",
+      "kind": "start",
+      "human": 721.904,
+      "model": 721.74,
+      "err_ms": 164.0
+    },
+    {
+      "id": "BC004",
+      "kind": "end",
+      "human": 726.38,
+      "model": 725.5,
+      "err_ms": 880.0
+    },
+    {
+      "id": "BC005",
+      "kind": "start",
+      "human": 674.048,
+      "model": 674.29,
+      "err_ms": 242.0
+    },
+    {
+      "id": "BC005",
+      "kind": "end",
+      "human": 680.012,
+      "model": 679.73,
+      "err_ms": 282.0
+    },
+    {
+      "id": "BC006",
+      "kind": "start",
+      "human": 1205.688,
+      "model": 1205.92,
+      "err_ms": 232.0
+    },
+    {
+      "id": "BC006",
+      "kind": "end",
+      "human": 1211.201,
+      "model": 1211.36,
+      "err_ms": 159.0
+    },
+    {
+      "id": "BC007",
+      "kind": "start",
+      "human": 330.307,
+      "model": 330.32,
+      "err_ms": 13.0
+    },
+    {
+      "id": "BC007",
+      "kind": "end",
+      "human": 335.448,
+      "model": 334.93,
+      "err_ms": 518.0
+    },
+    {
+      "id": "BC008",
+      "kind": "start",
+      "human": 740.963,
+      "model": 740.89,
+      "err_ms": 73.0
+    },
+    {
+      "id": "BC008",
+      "kind": "end",
+      "human": 744.575,
+      "model": 744.51,
+      "err_ms": 65.0
+    },
+    {
+      "id": "BC009",
+      "kind": "start",
+      "human": 317.121,
+      "model": 317.18,
+      "err_ms": 59.0
+    },
+    {
+      "id": "BC009",
+      "kind": "end",
+      "human": 322.597,
+      "model": 322.6,
+      "err_ms": 3.0
+    },
+    {
+      "id": "BC010",
+      "kind": "start",
+      "human": 791.259,
+      "model": 791.24,
+      "err_ms": 19.0
+    },
+    {
+      "id": "BC010",
+      "kind": "end",
+      "human": 794.735,
+      "model": 794.66,
+      "err_ms": 75.0
+    },
+    {
+      "id": "BC011",
+      "kind": "start",
+      "human": 803.8,
+      "model": 803.79,
+      "err_ms": 10.0
+    },
+    {
+      "id": "BC011",
+      "kind": "end",
+      "human": 806.264,
+      "model": 805.94,
+      "err_ms": 324.0
+    }
+  ]
+}

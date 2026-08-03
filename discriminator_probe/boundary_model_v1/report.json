@@ -1,0 +1,20 @@
+{
+  "version": "boundary_model_v1",
+  "samples": {
+    "total": 1356,
+    "pos": 108,
+    "neg": 1248
+  },
+  "holdout_auc": 1.0,
+  "top_features": [
+    "dist_word_boundary",
+    "rms_50_before",
+    "rms_50_after",
+    "rms_300_before",
+    "rms_300_after",
+    "rms_50_ratio",
+    "rms_150_after",
+    "rms_150_before"
+  ],
+  "model": "F:\\GPTSOVITS\\discriminator_probe\\boundary_model_v1\\boundary_model.pkl"
+}

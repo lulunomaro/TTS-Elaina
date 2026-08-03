@@ -1,0 +1,110 @@
+{
+  "version": "highconf_spotcheck_v1_private",
+  "samples": [
+    {
+      "blind_id": "HC01",
+      "origin": "AR0101",
+      "source_id": "majo_ep03",
+      "prob": 0.987,
+      "duration": 1.54
+    },
+    {
+      "blind_id": "HC02",
+      "origin": "AR0175",
+      "source_id": "majo_ep05",
+      "prob": 0.985,
+      "duration": 1.78
+    },
+    {
+      "blind_id": "HC03",
+      "origin": "AR0196",
+      "source_id": "majo_ep06",
+      "prob": 0.9811,
+      "duration": 2.19
+    },
+    {
+      "blind_id": "HC04",
+      "origin": "AR0002",
+      "source_id": "majo_ep01",
+      "prob": 0.9805,
+      "duration": 4.67
+    },
+    {
+      "blind_id": "HC05",
+      "origin": "AR0262",
+      "source_id": "majo_ep07",
+      "prob": 0.9723,
+      "duration": 1.03
+    },
+    {
+      "blind_id": "HC06",
+      "origin": "AR0060",
+      "source_id": "majo_ep02",
+      "prob": 0.9719,
+      "duration": 1.84
+    },
+    {
+      "blind_id": "HC07",
+      "origin": "AR0289",
+      "source_id": "majo_ep09",
+      "prob": 0.9719,
+      "duration": 2.39
+    },
+    {
+      "blind_id": "HC08",
+      "origin": "AR0130",
+      "source_id": "majo_ep04",
+      "prob": 0.9683,
+      "duration": 0.97
+    },
+    {
+      "blind_id": "HC09",
+      "origin": "V2R0157",
+      "source_id": "243358894-1-192",
+      "prob": 0.9773,
+      "duration": 2.82
+    },
+    {
+      "blind_id": "HC10",
+      "origin": "V2R0230",
+      "source_id": "253810599-1-192",
+      "prob": 0.9724,
+      "duration": 1.64
+    },
+    {
+      "blind_id": "HC11",
+      "origin": "V2R0272",
+      "source_id": "280479210-1-192",
+      "prob": 0.9614,
+      "duration": 3.19
+    },
+    {
+      "blind_id": "HC12",
+      "origin": "V2R0004",
+      "source_id": "113814583-1-160",
+      "prob": 0.9517,
+      "duration": 3.84
+    },
+    {
+      "blind_id": "HC13",
+      "origin": "V2R0133",
+      "source_id": "1405440540-1-192",
+      "prob": 0.9384,
+      "duration": 0.9
+    },
+    {
+      "blind_id": "HC14",
+      "origin": "V2R0368",
+      "source_id": "306672160-1-192",
+      "prob": 0.9224,
+      "duration": 5.74
+    },
+    {
+      "blind_id": "HC15",
+      "origin": "V2R0074",
+      "source_id": "1405372904-1-192",
+      "prob": 0.9002,
+      "duration": 2.5
+    }
+  ]
+}
