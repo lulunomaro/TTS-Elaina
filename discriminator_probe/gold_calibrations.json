@@ -1,0 +1,87 @@
+{
+  "version": "highconf_calibrator_gold_v1",
+  "exported_from": "C:\\Users\\lulu\\Downloads\\boundary_calibrator_v1_2026-08-03T05-12-25-954Z.json",
+  "count": 10,
+  "samples": [
+    {
+      "qc_id": "QC001",
+      "origin_blind_id": "AR0101",
+      "source_id": "majo_ep03",
+      "abs_start": 734.622,
+      "abs_end": 736.111,
+      "duration": 1.489
+    },
+    {
+      "qc_id": "QC002",
+      "origin_blind_id": "AR0175",
+      "source_id": "majo_ep05",
+      "abs_start": 1177.43,
+      "abs_end": 1188.922,
+      "duration": 11.492
+    },
+    {
+      "qc_id": "QC003",
+      "origin_blind_id": "AR0002",
+      "source_id": "majo_ep01",
+      "abs_start": 514.178,
+      "abs_end": 522.59,
+      "duration": 8.412
+    },
+    {
+      "qc_id": "QC004",
+      "origin_blind_id": "AR0262",
+      "source_id": "majo_ep07",
+      "abs_start": 551.762,
+      "abs_end": 561.486,
+      "duration": 9.724
+    },
+    {
+      "qc_id": "QC005",
+      "origin_blind_id": "AR0094",
+      "source_id": "majo_ep03",
+      "abs_start": 394.745,
+      "abs_end": 406.588,
+      "duration": 11.843
+    },
+    {
+      "qc_id": "QC006",
+      "origin_blind_id": "AR0074",
+      "source_id": "majo_ep02",
+      "abs_start": 1245.517,
+      "abs_end": 1257.976,
+      "duration": 12.459
+    },
+    {
+      "qc_id": "QC007",
+      "origin_blind_id": "AR0199",
+      "source_id": "majo_ep06",
+      "abs_start": 254.571,
+      "abs_end": 265.842,
+      "duration": 11.271
+    },
+    {
+      "qc_id": "QC008",
+      "origin_blind_id": "AR0208",
+      "source_id": "majo_ep06",
+      "abs_start": 475.619,
+      "abs_end": 479.923,
+      "duration": 4.304
+    },
+    {
+      "qc_id": "QC009",
+      "origin_blind_id": "AR0130",
+      "source_id": "majo_ep04",
+      "abs_start": 22.736,
+      "abs_end": 32.783,
+      "duration": 10.047
+    },
+    {
+      "qc_id": "QC010",
+      "origin_blind_id": "AR0254",
+      "source_id": "majo_ep07",
+      "abs_start": 553.09,
+      "abs_end": 561.757,
+      "duration": 8.667
+    }
+  ]
+}
