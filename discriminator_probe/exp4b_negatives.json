@@ -1,0 +1,40 @@
+[
+  {
+    "file": "28055832533-1-192_vocals_0017516160_0017573120.wav",
+    "reason": "confirmed non-target by user",
+    "source": "28055832533-1-192",
+    "start": 547.38,
+    "end": 549.16,
+    "score": 0.0906186630789608
+  },
+  {
+    "file": "review_0002_p250.595_1405440540-1-192_vocals_0012969600_0013081600_0000048000_0000096000.wav",
+    "reason": "mixed with non-target voice by user",
+    "source": "1405440540-1-192",
+    "start": 1.5,
+    "end": 3.0,
+    "score": NaN
+  },
+  {
+    "file": "review_0007_p250.590_28055832533-1-192_vocals_0018346880_0018502400_0000064000_0000112000.wav",
+    "reason": "mixed with non-target voice by user",
+    "source": "28055832533-1-192",
+    "start": 2.0,
+    "end": 3.5,
+    "score": 0.06710998937638661
+  },
+  {
+    "file": "review_0003_p250.579_28055832533-1-192_vocals_0013268480_0013539200_0000176000_0000224000.wav",
+    "reason": "mixed with non-target voice by user",
+    "source": "28055832533-1-192",
+    "start": 5.5,
+    "end": 7.0,
+    "score": 0.07804858242745706
+  },
+  {
+    "file": "recall_004_rank0.572_p250.568_1311215796_u1-1-192_vocals_0006943360_0007132160_0000140800_0000188800.wav",
+    "reason": "non-target voice by user",
+    "score": null,
+    "note": "unparsed"
+  }
+]

@@ -1,0 +1,2061 @@
+{
+  "version": "exp4_purity_quality",
+  "negatives": {
+    "scored": 1,
+    "mean": 0.8236609007530005,
+    "frac_lt_0.5": 0.0
+  },
+  "positives": {
+    "scored": 60,
+    "mean": 0.861037478207268,
+    "frac_ge_0.7": 0.9166666666666666,
+    "frac_ge_0.9": 0.4
+  },
+  "high_conf_quality": {
+    "n": 199,
+    "pass_fraction": 0.754,
+    "mean_snr_db": 48.801005025125626
+  },
+  "neg_detail": [
+    {
+      "kind": "review_重叠说话",
+      "human_key": "B001",
+      "score": 0.8236609007530005
+    }
+  ],
+  "pos_detail": [
+    {
+      "human_key": "anime_semantic_acceptance_v1:S001",
+      "score": 0.8673959192165818
+    },
+    {
+      "human_key": "anime_semantic_acceptance_v1:S006",
+      "score": 0.8716771064844082
+    },
+    {
+      "human_key": "anime_semantic_acceptance_v1:S004",
+      "score": 0.9403866431922344
+    },
+    {
+      "human_key": "anime_semantic_acceptance_v1:S002",
+      "score": 0.8100253159973948
+    },
+    {
+      "human_key": "anime_semantic_acceptance_v1:S010",
+      "score": 0.8653596968168853
+    },
+    {
+      "human_key": "anime_semantic_acceptance_v1:S003",
+      "score": 0.9776463339830961
+    },
+    {
+      "human_key": "anime_semantic_acceptance_v1:S007",
+      "score": 0.8900183820973742
+    },
+    {
+      "human_key": "anime_semantic_acceptance_v1:S005",
+      "score": 0.9439133979058465
+    },
+    {
+      "human_key": "anime_semantic_acceptance_v1:S009",
+      "score": 0.7284217964337768
+    },
+    {
+      "human_key": "anime_semantic_acceptance_v1:S011",
+      "score": 0.9521231622189819
+    },
+    {
+      "human_key": "anime_semantic_acceptance_v1:S008",
+      "score": 0.9467829821685999
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B002",
+      "score": 0.8353195939436914
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B005",
+      "score": 0.8626187302300309
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B007",
+      "score": 0.9574867942032952
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B008",
+      "score": 0.937796921584785
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B012",
+      "score": 0.8074843791017232
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B040",
+      "score": 0.9152219063583593
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B048",
+      "score": 0.873138472329841
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B014",
+      "score": 0.9406540238266468
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B016",
+      "score": 0.9157247332864548
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B045",
+      "score": 0.8197480198811944
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B026",
+      "score": 0.9509212540240335
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B027",
+      "score": 0.8715781424954491
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B025",
+      "score": 0.9306483749106518
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B046",
+      "score": 0.6600205343087155
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B032",
+      "score": 0.8305433450198721
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B036",
+      "score": 0.697249532717872
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B047",
+      "score": 0.8018086629320409
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B034",
+      "score": 0.5364438171052976
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v1:B035",
+      "score": 0.7794375919492679
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B035",
+      "score": 0.8673932605229266
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B046",
+      "score": 0.9002317244030067
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B036",
+      "score": 0.8854321595157916
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B037",
+      "score": 0.9786422379954693
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B003",
+      "score": 0.9561638499012888
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B027",
+      "score": 0.9374953713234419
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B004",
+      "score": 0.9431967316270914
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B028",
+      "score": 0.5590544048967167
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B005",
+      "score": 0.9777776652875216
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B039",
+      "score": 0.9699182541814478
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B006",
+      "score": 0.813045755442175
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B019",
+      "score": 0.955018113541182
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B041",
+      "score": 0.7933716394155355
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B031",
+      "score": 0.8139467642400211
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B042",
+      "score": 0.8786610449015279
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B043",
+      "score": 0.8776745291646357
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B032",
+      "score": 0.9363958796299616
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B022",
+      "score": 0.9081290230433039
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B034",
+      "score": 0.8623812262643313
+    },
+    {
+      "human_key": "anime_semantic_review_batch_v2:B023",
+      "score": 0.7593057420535767
+    },
+    {
+      "human_key": "anime_boundary_rescue_batch_v1:R002",
+      "score": 0.8953719027870938
+    },
+    {
+      "human_key": "anime_boundary_rescue_batch_v1:R041",
+      "score": 0.8606834231848993
+    },
+    {
+      "human_key": "anime_boundary_rescue_batch_v1:R007",
+      "score": 0.8869014780714073
+    },
+    {
+      "human_key": "anime_boundary_rescue_batch_v1:R044",
+      "score": 0.9270564290520844
+    },
+    {
+      "human_key": "anime_boundary_rescue_batch_v1:R011",
+      "score": 0.7882895154240227
+    },
+    {
+      "human_key": "anime_boundary_rescue_batch_v1:R045",
+      "score": 0.7383347307528014
+    },
+    {
+      "human_key": "anime_boundary_rescue_batch_v1:R050",
+      "score": 0.959163824006602
+    },
+    {
+      "human_key": "anime_boundary_rescue_batch_v1:R021",
+      "score": 0.8720235196530005
+    },
+    {
+      "human_key": "anime_boundary_rescue_batch_v1:R027",
+      "score": 0.5722490266542278
+    },
+    {
+      "human_key": "anime_boundary_rescue_batch_v1:R052",
+      "score": 0.8713438987745908
+    }
+  ],
+  "quality_detail": [
+    {
+      "prob": 0.956288637691685,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0001",
+      "duration": 5.21,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.38,
+      "snr_proxy_db": 65.9
+    },
+    {
+      "prob": 0.9716196003612507,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0002",
+      "duration": 4.675,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 19.04,
+      "snr_proxy_db": 61.6
+    },
+    {
+      "prob": 0.9529537915771068,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0005",
+      "duration": 4.71,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.42,
+      "snr_proxy_db": 66.7
+    },
+    {
+      "prob": 0.9458150193516445,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0006",
+      "duration": 2.45,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 8.57,
+      "snr_proxy_db": 52.7
+    },
+    {
+      "prob": 0.9264428746985292,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0009",
+      "duration": 5.04,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.2,
+      "snr_proxy_db": 53.7
+    },
+    {
+      "prob": 0.9127180402791849,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0010",
+      "duration": 5.69,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 5.27,
+      "snr_proxy_db": 67.9
+    },
+    {
+      "prob": 0.9464195909455843,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0012",
+      "duration": 5.82,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 3.78,
+      "snr_proxy_db": 68.5
+    },
+    {
+      "prob": 0.9243370098367637,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0015",
+      "duration": 4.99,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.6,
+      "snr_proxy_db": 66.7
+    },
+    {
+      "prob": 0.9215198764937542,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0016",
+      "duration": 5.3,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 66.3
+    },
+    {
+      "prob": 0.914407315773062,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0018",
+      "duration": 5.74,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 12.72,
+      "snr_proxy_db": 66.4
+    },
+    {
+      "prob": 0.9002317244030067,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0020",
+      "duration": 3.42,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 11.4,
+      "snr_proxy_db": 69.3
+    },
+    {
+      "prob": 0.9171723365248023,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0024",
+      "duration": 6.17,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 7.78,
+      "snr_proxy_db": 66.9
+    },
+    {
+      "prob": 0.9190350802410315,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0025",
+      "duration": 1.535,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 33.8
+    },
+    {
+      "prob": 0.9020288720263269,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0030",
+      "duration": 3.22,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 50.4
+    },
+    {
+      "prob": 0.9522217084827816,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0031",
+      "duration": 2.445,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 12.68,
+      "snr_proxy_db": 67.8
+    },
+    {
+      "prob": 0.9372591909827387,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0034",
+      "duration": 4.725,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.42,
+      "snr_proxy_db": 43.6
+    },
+    {
+      "prob": 0.9744445049748438,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0036",
+      "duration": 0.95,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.05,
+      "snr_proxy_db": 32.4
+    },
+    {
+      "prob": 0.9202478460674861,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0038",
+      "duration": 0.89,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 13.4
+    },
+    {
+      "prob": 0.9249076333011164,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0043",
+      "duration": 1.09,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 20.5
+    },
+    {
+      "prob": 0.9057296971399679,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0047",
+      "duration": 0.89,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 16.6
+    },
+    {
+      "prob": 0.9061657827192353,
+      "source_id": "majo_ep01",
+      "blind_id": "AR0050",
+      "duration": 1.475,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 14.4
+    },
+    {
+      "prob": 0.910036833403487,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0051",
+      "duration": 5.39,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 24.68,
+      "snr_proxy_db": 65.1
+    },
+    {
+      "prob": 0.909526442679721,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0053",
+      "duration": 2.735,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 63.4
+    },
+    {
+      "prob": 0.9423696752495588,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0057",
+      "duration": 1.71,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 21.9
+    },
+    {
+      "prob": 0.9634421792255342,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0060",
+      "duration": 1.84,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 63.4
+    },
+    {
+      "prob": 0.9334288207040894,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0062",
+      "duration": 1.43,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 17.7
+    },
+    {
+      "prob": 0.9275970098245818,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0065",
+      "duration": 1.91,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 17.5
+    },
+    {
+      "prob": 0.9492826318585788,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0066",
+      "duration": 1.87,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 13.7
+    },
+    {
+      "prob": 0.946957480136854,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0068",
+      "duration": 0.99,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 17.6
+    },
+    {
+      "prob": 0.9586598894914783,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0070",
+      "duration": 1.365,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 19.0
+    },
+    {
+      "prob": 0.9525835808257139,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0071",
+      "duration": 4.275,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.94,
+      "snr_proxy_db": 65.2
+    },
+    {
+      "prob": 0.9461960066757413,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0072",
+      "duration": 1.61,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 15.6
+    },
+    {
+      "prob": 0.9526016035639987,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0073",
+      "duration": 1.35,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 12.8
+    },
+    {
+      "prob": 0.9595423022274985,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0074",
+      "duration": 4.065,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 56.4
+    },
+    {
+      "prob": 0.9726541869583346,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0076",
+      "duration": 1.89,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.53,
+      "snr_proxy_db": 66.5
+    },
+    {
+      "prob": 0.9062256663745619,
+      "source_id": "majo_ep02",
+      "blind_id": "AR0077",
+      "duration": 2.47,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 14.1
+    },
+    {
+      "prob": 0.9574867942032952,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0078",
+      "duration": 3.8,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 2.89,
+      "snr_proxy_db": 66.2
+    },
+    {
+      "prob": 0.9129522877805932,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0079",
+      "duration": 2.955,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 3.05,
+      "snr_proxy_db": 66.1
+    },
+    {
+      "prob": 0.9561638499012888,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0080",
+      "duration": 3.24,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.93,
+      "snr_proxy_db": 65.0
+    },
+    {
+      "prob": 0.9629047143863971,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0081",
+      "duration": 5.705,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.88,
+      "snr_proxy_db": 67.1
+    },
+    {
+      "prob": 0.9253132277182634,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0082",
+      "duration": 3.505,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 4.85,
+      "snr_proxy_db": 61.2
+    },
+    {
+      "prob": 0.9523090663341449,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0083",
+      "duration": 3.935,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 67.9
+    },
+    {
+      "prob": 0.9683525556177403,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0084",
+      "duration": 3.255,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.31,
+      "snr_proxy_db": 64.3
+    },
+    {
+      "prob": 0.9584208633881823,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0085",
+      "duration": 3.52,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 4.55,
+      "snr_proxy_db": 67.4
+    },
+    {
+      "prob": 0.951796604780033,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0086",
+      "duration": 5.37,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.49,
+      "snr_proxy_db": 67.2
+    },
+    {
+      "prob": 0.9431867573090025,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0087",
+      "duration": 2.485,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 64.5
+    },
+    {
+      "prob": 0.937796921584785,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0088",
+      "duration": 3.12,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 5.45,
+      "snr_proxy_db": 65.9
+    },
+    {
+      "prob": 0.9135826500226542,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0091",
+      "duration": 2.71,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 27.3
+    },
+    {
+      "prob": 0.9270564290520844,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0092",
+      "duration": 2.495,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 41.3
+    },
+    {
+      "prob": 0.9527165821206045,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0094",
+      "duration": 2.445,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 2.04,
+      "snr_proxy_db": 61.8
+    },
+    {
+      "prob": 0.9304443698572263,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0096",
+      "duration": 2.395,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 12.8
+    },
+    {
+      "prob": 0.9547172735229182,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0097",
+      "duration": 3.09,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.32,
+      "snr_proxy_db": 56.2
+    },
+    {
+      "prob": 0.9618805857483801,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0098",
+      "duration": 3.305,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 34.6
+    },
+    {
+      "prob": 0.9217824208675028,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0100",
+      "duration": 2.685,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 4.1,
+      "snr_proxy_db": 64.5
+    },
+    {
+      "prob": 0.9786422379954693,
+      "source_id": "majo_ep03",
+      "blind_id": "AR0101",
+      "duration": 1.545,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 3.24,
+      "snr_proxy_db": 33.0
+    },
+    {
+      "prob": 0.9097119134259625,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0102",
+      "duration": 4.87,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 32.1
+    },
+    {
+      "prob": 0.9439434155380428,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0103",
+      "duration": 3.07,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 36.7
+    },
+    {
+      "prob": 0.9227285312605216,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0105",
+      "duration": 3.79,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 6.86,
+      "snr_proxy_db": 66.1
+    },
+    {
+      "prob": 0.9048740023131168,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0106",
+      "duration": 4.62,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.3,
+      "snr_proxy_db": 33.0
+    },
+    {
+      "prob": 0.9280845574602645,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0108",
+      "duration": 3.05,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.64,
+      "snr_proxy_db": 35.6
+    },
+    {
+      "prob": 0.9242300082627434,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0111",
+      "duration": 5.29,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 2.65,
+      "snr_proxy_db": 63.7
+    },
+    {
+      "prob": 0.9098288257316758,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0114",
+      "duration": 4.31,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.46,
+      "snr_proxy_db": 67.1
+    },
+    {
+      "prob": 0.9042329372181467,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0115",
+      "duration": 3.35,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 30.3
+    },
+    {
+      "prob": 0.9209760496133237,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0116",
+      "duration": 5.06,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.4,
+      "snr_proxy_db": 67.1
+    },
+    {
+      "prob": 0.9275136755361346,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0120",
+      "duration": 2.6,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 27.6
+    },
+    {
+      "prob": 0.9152947004946118,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0121",
+      "duration": 4.425,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 6.78,
+      "snr_proxy_db": 60.7
+    },
+    {
+      "prob": 0.9153456226477651,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0123",
+      "duration": 2.69,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 66.7
+    },
+    {
+      "prob": 0.9119041664435011,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0129",
+      "duration": 2.81,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 13.17,
+      "snr_proxy_db": 63.1
+    },
+    {
+      "prob": 0.9542285642937854,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0130",
+      "duration": 0.965,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 25.2
+    },
+    {
+      "prob": 0.9060580005023986,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0131",
+      "duration": 2.99,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.0,
+      "snr_proxy_db": 69.6
+    },
+    {
+      "prob": 0.9249805797347509,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0132",
+      "duration": 3.995,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 2.75,
+      "snr_proxy_db": 43.0
+    },
+    {
+      "prob": 0.9365287839749246,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0135",
+      "duration": 3.385,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.48,
+      "snr_proxy_db": 37.5
+    },
+    {
+      "prob": 0.9479316120967243,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0136",
+      "duration": 4.31,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.23,
+      "snr_proxy_db": 32.1
+    },
+    {
+      "prob": 0.9087442534076036,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0138",
+      "duration": 5.65,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 9.38,
+      "snr_proxy_db": 68.2
+    },
+    {
+      "prob": 0.9431967316270914,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0140",
+      "duration": 5.6,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 9.29,
+      "snr_proxy_db": 62.1
+    },
+    {
+      "prob": 0.9141813693770351,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0144",
+      "duration": 3.905,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.26,
+      "snr_proxy_db": 37.0
+    },
+    {
+      "prob": 0.9145485727166522,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0145",
+      "duration": 4.535,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.66,
+      "snr_proxy_db": 65.2
+    },
+    {
+      "prob": 0.9004632440311697,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0147",
+      "duration": 2.04,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 10.78,
+      "snr_proxy_db": 47.6
+    },
+    {
+      "prob": 0.9152219063583593,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0149",
+      "duration": 2.12,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 3.3,
+      "snr_proxy_db": 61.5
+    },
+    {
+      "prob": 0.9010655696413241,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0151",
+      "duration": 2.065,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.45,
+      "snr_proxy_db": 64.4
+    },
+    {
+      "prob": 0.9692186166345501,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0156",
+      "duration": 4.06,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.74,
+      "snr_proxy_db": 67.2
+    },
+    {
+      "prob": 0.9464441613372813,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0157",
+      "duration": 4.61,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 37.2
+    },
+    {
+      "prob": 0.9106006082633009,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0158",
+      "duration": 3.77,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.8,
+      "snr_proxy_db": 36.0
+    },
+    {
+      "prob": 0.9374953713234419,
+      "source_id": "majo_ep04",
+      "blind_id": "AR0162",
+      "duration": 4.0,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 7.75,
+      "snr_proxy_db": 67.7
+    },
+    {
+      "prob": 0.9093918844773221,
+      "source_id": "majo_ep05",
+      "blind_id": "AR0166",
+      "duration": 5.215,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 29.0
+    },
+    {
+      "prob": 0.9699182541814478,
+      "source_id": "majo_ep05",
+      "blind_id": "AR0168",
+      "duration": 3.48,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 8.33,
+      "snr_proxy_db": 66.7
+    },
+    {
+      "prob": 0.9701999443193964,
+      "source_id": "majo_ep05",
+      "blind_id": "AR0169",
+      "duration": 3.965,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 5.55,
+      "snr_proxy_db": 67.3
+    },
+    {
+      "prob": 0.938983965114307,
+      "source_id": "majo_ep05",
+      "blind_id": "AR0170",
+      "duration": 2.625,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.14,
+      "snr_proxy_db": 34.3
+    },
+    {
+      "prob": 0.9668138039634689,
+      "source_id": "majo_ep05",
+      "blind_id": "AR0171",
+      "duration": 5.05,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 9.11,
+      "snr_proxy_db": 66.6
+    },
+    {
+      "prob": 0.9406540238266468,
+      "source_id": "majo_ep05",
+      "blind_id": "AR0172",
+      "duration": 2.31,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 30.3
+    },
+    {
+      "prob": 0.920183429894986,
+      "source_id": "majo_ep05",
+      "blind_id": "AR0173",
+      "duration": 2.385,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 65.4
+    },
+    {
+      "prob": 0.9777776652875216,
+      "source_id": "majo_ep05",
+      "blind_id": "AR0175",
+      "duration": 1.78,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 10.67,
+      "snr_proxy_db": 68.1
+    },
+    {
+      "prob": 0.9642644873371203,
+      "source_id": "majo_ep05",
+      "blind_id": "AR0178",
+      "duration": 4.985,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 7.62,
+      "snr_proxy_db": 68.0
+    },
+    {
+      "prob": 0.9429262756268236,
+      "source_id": "majo_ep05",
+      "blind_id": "AR0179",
+      "duration": 2.89,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 26.7
+    },
+    {
+      "prob": 0.9546375522180728,
+      "source_id": "majo_ep05",
+      "blind_id": "AR0180",
+      "duration": 1.875,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 38.0
+    },
+    {
+      "prob": 0.9552481791437588,
+      "source_id": "majo_ep05",
+      "blind_id": "AR0182",
+      "duration": 1.015,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 3.94,
+      "snr_proxy_db": 63.2
+    },
+    {
+      "prob": 0.9094504269553371,
+      "source_id": "majo_ep05",
+      "blind_id": "AR0185",
+      "duration": 0.965,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 20.9
+    },
+    {
+      "prob": 0.961837615310779,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0186",
+      "duration": 2.325,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 48.5
+    },
+    {
+      "prob": 0.9126895764977571,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0187",
+      "duration": 3.505,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 59.0
+    },
+    {
+      "prob": 0.9490891547007826,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0188",
+      "duration": 4.69,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.43,
+      "snr_proxy_db": 22.2
+    },
+    {
+      "prob": 0.9611714191904159,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0189",
+      "duration": 3.875,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.77,
+      "snr_proxy_db": 67.8
+    },
+    {
+      "prob": 0.9431308045420947,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0191",
+      "duration": 2.35,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 16.1
+    },
+    {
+      "prob": 0.9743436213714596,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0193",
+      "duration": 2.205,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 24.8
+    },
+    {
+      "prob": 0.960010306857225,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0195",
+      "duration": 5.175,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 22.2
+    },
+    {
+      "prob": 0.9700306082083794,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0196",
+      "duration": 2.195,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 40.2
+    },
+    {
+      "prob": 0.9304876058549917,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0197",
+      "duration": 5.59,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 24.3
+    },
+    {
+      "prob": 0.9020334478068897,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0198",
+      "duration": 2.215,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 62.3
+    },
+    {
+      "prob": 0.9587327643474944,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0199",
+      "duration": 5.785,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.38,
+      "snr_proxy_db": 68.4
+    },
+    {
+      "prob": 0.9157247332864548,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0200",
+      "duration": 3.955,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 5.56,
+      "snr_proxy_db": 64.9
+    },
+    {
+      "prob": 0.93611660043676,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0201",
+      "duration": 2.665,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.5,
+      "snr_proxy_db": 67.1
+    },
+    {
+      "prob": 0.9771060876321785,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0202",
+      "duration": 2.235,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 31.8
+    },
+    {
+      "prob": 0.9399591429573854,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0203",
+      "duration": 1.87,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.07,
+      "snr_proxy_db": 17.3
+    },
+    {
+      "prob": 0.9437690335023825,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0206",
+      "duration": 3.59,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 30.7
+    },
+    {
+      "prob": 0.9254672354854887,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0207",
+      "duration": 1.93,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 16.1
+    },
+    {
+      "prob": 0.9610157163014235,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0208",
+      "duration": 3.375,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 63.4
+    },
+    {
+      "prob": 0.9593648187692275,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0209",
+      "duration": 2.125,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 3.29,
+      "snr_proxy_db": 61.6
+    },
+    {
+      "prob": 0.9393318481639004,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0211",
+      "duration": 1.21,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 16.9
+    },
+    {
+      "prob": 0.9253491819527351,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0212",
+      "duration": 1.595,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.25,
+      "snr_proxy_db": 64.9
+    },
+    {
+      "prob": 0.9254789984256084,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0213",
+      "duration": 1.435,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 16.0
+    },
+    {
+      "prob": 0.9384711295049949,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0214",
+      "duration": 3.65,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.55,
+      "snr_proxy_db": 66.6
+    },
+    {
+      "prob": 0.9720446089297737,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0216",
+      "duration": 2.455,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.81,
+      "snr_proxy_db": 63.0
+    },
+    {
+      "prob": 0.9302923683242563,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0217",
+      "duration": 2.045,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 31.6
+    },
+    {
+      "prob": 0.9483584061776671,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0219",
+      "duration": 2.415,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 14.9
+    },
+    {
+      "prob": 0.9541632116845655,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0221",
+      "duration": 4.175,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.2,
+      "snr_proxy_db": 60.8
+    },
+    {
+      "prob": 0.9542332286347386,
+      "source_id": "majo_ep06",
+      "blind_id": "AR0222",
+      "duration": 1.885,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 13.2
+    },
+    {
+      "prob": 0.9541462253856416,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0223",
+      "duration": 4.15,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 66.8
+    },
+    {
+      "prob": 0.956482885477751,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0224",
+      "duration": 2.92,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 51.9
+    },
+    {
+      "prob": 0.9162650001082818,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0225",
+      "duration": 5.51,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.73,
+      "snr_proxy_db": 66.8
+    },
+    {
+      "prob": 0.9513468561861684,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0227",
+      "duration": 4.78,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.21,
+      "snr_proxy_db": 58.3
+    },
+    {
+      "prob": 0.9264396075333541,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0228",
+      "duration": 3.44,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 66.2
+    },
+    {
+      "prob": 0.9259637446610075,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0229",
+      "duration": 2.69,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 3.35,
+      "snr_proxy_db": 53.2
+    },
+    {
+      "prob": 0.9200942049788476,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0231",
+      "duration": 2.955,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 66.7
+    },
+    {
+      "prob": 0.9371103449459772,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0232",
+      "duration": 5.68,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 4.4,
+      "snr_proxy_db": 67.9
+    },
+    {
+      "prob": 0.9269754265013742,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0233",
+      "duration": 3.57,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.4,
+      "snr_proxy_db": 64.8
+    },
+    {
+      "prob": 0.9546865804979119,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0235",
+      "duration": 2.045,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 44.5
+    },
+    {
+      "prob": 0.911802019477536,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0236",
+      "duration": 2.365,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 17.4
+    },
+    {
+      "prob": 0.9144763669183742,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0237",
+      "duration": 2.795,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 22.4
+    },
+    {
+      "prob": 0.955018113541182,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0239",
+      "duration": 2.36,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 8.9,
+      "snr_proxy_db": 62.7
+    },
+    {
+      "prob": 0.9343579195120076,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0241",
+      "duration": 4.555,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.44,
+      "snr_proxy_db": 34.9
+    },
+    {
+      "prob": 0.9319162274736362,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0242",
+      "duration": 1.97,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 5.58,
+      "snr_proxy_db": 63.2
+    },
+    {
+      "prob": 0.9045115519893446,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0244",
+      "duration": 4.95,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.41,
+      "snr_proxy_db": 46.9
+    },
+    {
+      "prob": 0.9222329809767226,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0245",
+      "duration": 2.195,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 16.86,
+      "snr_proxy_db": 71.2
+    },
+    {
+      "prob": 0.924623758950668,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0247",
+      "duration": 3.445,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 3.48,
+      "snr_proxy_db": 62.7
+    },
+    {
+      "prob": 0.9492367083471809,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0251",
+      "duration": 2.29,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 23.6
+    },
+    {
+      "prob": 0.9104654878454257,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0252",
+      "duration": 5.445,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 35.1
+    },
+    {
+      "prob": 0.9280046330081172,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0253",
+      "duration": 3.55,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 28.1
+    },
+    {
+      "prob": 0.9584188805042048,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0254",
+      "duration": 1.89,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 49.9
+    },
+    {
+      "prob": 0.9565747791619594,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0256",
+      "duration": 1.865,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 32.5
+    },
+    {
+      "prob": 0.9282887161323041,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0258",
+      "duration": 1.95,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.51,
+      "snr_proxy_db": 27.6
+    },
+    {
+      "prob": 0.9460014108043185,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0260",
+      "duration": 1.895,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 58.2
+    },
+    {
+      "prob": 0.9627808617013622,
+      "source_id": "majo_ep07",
+      "blind_id": "AR0262",
+      "duration": 1.035,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 65.2
+    },
+    {
+      "prob": 0.9027157566680342,
+      "source_id": "majo_ep08",
+      "blind_id": "AR0264",
+      "duration": 5.38,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 68.0
+    },
+    {
+      "prob": 0.9297658557675944,
+      "source_id": "majo_ep08",
+      "blind_id": "AR0267",
+      "duration": 4.365,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 64.3
+    },
+    {
+      "prob": 0.938493494675154,
+      "source_id": "majo_ep08",
+      "blind_id": "AR0275",
+      "duration": 1.59,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 18.6
+    },
+    {
+      "prob": 0.9435214133467393,
+      "source_id": "majo_ep08",
+      "blind_id": "AR0279",
+      "duration": 3.965,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 63.4
+    },
+    {
+      "prob": 0.9294936276284584,
+      "source_id": "majo_ep09",
+      "blind_id": "AR0286",
+      "duration": 2.53,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 39.2
+    },
+    {
+      "prob": 0.9633028591936439,
+      "source_id": "majo_ep09",
+      "blind_id": "AR0289",
+      "duration": 2.39,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.42,
+      "snr_proxy_db": 63.5
+    },
+    {
+      "prob": 0.9315460484407762,
+      "source_id": "majo_ep09",
+      "blind_id": "AR0294",
+      "duration": 5.49,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 2.37,
+      "snr_proxy_db": 63.5
+    },
+    {
+      "prob": 0.9166305014801743,
+      "source_id": "majo_ep09",
+      "blind_id": "AR0297",
+      "duration": 3.55,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.28,
+      "snr_proxy_db": 65.3
+    },
+    {
+      "prob": 0.9099163590847373,
+      "source_id": "majo_ep09",
+      "blind_id": "AR0300",
+      "duration": 4.26,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 9.39,
+      "snr_proxy_db": 66.2
+    },
+    {
+      "prob": 0.9668930031975669,
+      "source_id": "majo_ep09",
+      "blind_id": "AR0306",
+      "duration": 1.905,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 63.1
+    },
+    {
+      "prob": 0.9306483749106518,
+      "source_id": "majo_ep09",
+      "blind_id": "AR0308",
+      "duration": 2.38,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 4.62,
+      "snr_proxy_db": 65.2
+    },
+    {
+      "prob": 0.9018584813283361,
+      "source_id": "majo_ep09",
+      "blind_id": "AR0313",
+      "duration": 6.19,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 6.3,
+      "snr_proxy_db": 62.1
+    },
+    {
+      "prob": 0.9294939386391488,
+      "source_id": "majo_ep09",
+      "blind_id": "AR0320",
+      "duration": 5.28,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.57,
+      "snr_proxy_db": 66.1
+    },
+    {
+      "prob": 0.9509212540240335,
+      "source_id": "majo_ep09",
+      "blind_id": "AR0321",
+      "duration": 1.86,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 27.2
+    },
+    {
+      "prob": 0.9088949880371878,
+      "source_id": "majo_ep09",
+      "blind_id": "AR0323",
+      "duration": 1.395,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.43,
+      "snr_proxy_db": 23.8
+    },
+    {
+      "prob": 0.9363958796299616,
+      "source_id": "majo_ep09",
+      "blind_id": "AR0326",
+      "duration": 2.07,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 64.6
+    },
+    {
+      "prob": 0.903220853520761,
+      "source_id": "majo_ep09",
+      "blind_id": "AR0329",
+      "duration": 6.235,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 3.21,
+      "snr_proxy_db": 58.8
+    },
+    {
+      "prob": 0.941463814627744,
+      "source_id": "majo_ep10",
+      "blind_id": "AR0334",
+      "duration": 2.885,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 3.12,
+      "snr_proxy_db": 69.4
+    },
+    {
+      "prob": 0.9481136029463703,
+      "source_id": "majo_ep11",
+      "blind_id": "AR0339",
+      "duration": 6.125,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.49,
+      "snr_proxy_db": 35.2
+    },
+    {
+      "prob": 0.9081290230433039,
+      "source_id": "majo_ep11",
+      "blind_id": "AR0341",
+      "duration": 1.84,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 2.17,
+      "snr_proxy_db": 63.8
+    },
+    {
+      "prob": 0.9160765528286067,
+      "source_id": "majo_ep11",
+      "blind_id": "AR0342",
+      "duration": 4.78,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.46,
+      "snr_proxy_db": 69.5
+    },
+    {
+      "prob": 0.928677466168281,
+      "source_id": "majo_ep11",
+      "blind_id": "AR0344",
+      "duration": 4.315,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 66.9
+    },
+    {
+      "prob": 0.9072248030667975,
+      "source_id": "majo_ep11",
+      "blind_id": "AR0345",
+      "duration": 1.555,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 5.79,
+      "snr_proxy_db": 63.3
+    },
+    {
+      "prob": 0.9390183613054089,
+      "source_id": "majo_ep11",
+      "blind_id": "AR0350",
+      "duration": 2.585,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 19.4
+    },
+    {
+      "prob": 0.9453144963214022,
+      "source_id": "majo_ep11",
+      "blind_id": "AR0351",
+      "duration": 2.39,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 14.7
+    },
+    {
+      "prob": 0.9015260200215022,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0353",
+      "duration": 3.96,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 6.82,
+      "snr_proxy_db": 24.4
+    },
+    {
+      "prob": 0.9409145158738197,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0354",
+      "duration": 5.05,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 5.94,
+      "snr_proxy_db": 67.0
+    },
+    {
+      "prob": 0.9203555958048738,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0360",
+      "duration": 3.16,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.63,
+      "snr_proxy_db": 66.7
+    },
+    {
+      "prob": 0.9503198597143583,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0362",
+      "duration": 4.69,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 33.5
+    },
+    {
+      "prob": 0.9058799696430745,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0363",
+      "duration": 2.845,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.7,
+      "snr_proxy_db": 25.7
+    },
+    {
+      "prob": 0.9422015380983362,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0364",
+      "duration": 5.7,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 7.02,
+      "snr_proxy_db": 67.7
+    },
+    {
+      "prob": 0.9550439443172798,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0365",
+      "duration": 5.865,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 10.57,
+      "snr_proxy_db": 69.3
+    },
+    {
+      "prob": 0.9675972245447949,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0366",
+      "duration": 3.67,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.82,
+      "snr_proxy_db": 55.4
+    },
+    {
+      "prob": 0.9388241870609214,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0367",
+      "duration": 4.175,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.96,
+      "snr_proxy_db": 58.1
+    },
+    {
+      "prob": 0.9372463071531781,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0368",
+      "duration": 4.82,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.21,
+      "snr_proxy_db": 66.8
+    },
+    {
+      "prob": 0.9109834247129764,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0369",
+      "duration": 3.59,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 2.79,
+      "snr_proxy_db": 67.0
+    },
+    {
+      "prob": 0.948718130583943,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0372",
+      "duration": 3.565,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 63.1
+    },
+    {
+      "prob": 0.9346990389172364,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0380",
+      "duration": 1.63,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.23,
+      "snr_proxy_db": 31.0
+    },
+    {
+      "prob": 0.9432102447044273,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0385",
+      "duration": 3.69,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.27,
+      "snr_proxy_db": 42.7
+    },
+    {
+      "prob": 0.9019924262007377,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0388",
+      "duration": 3.12,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 61.8
+    },
+    {
+      "prob": 0.9238528691457768,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0393",
+      "duration": 5.42,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 6.46,
+      "snr_proxy_db": 61.4
+    },
+    {
+      "prob": 0.9254037372604805,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0394",
+      "duration": 4.545,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 67.8
+    },
+    {
+      "prob": 0.9210776596799802,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0398",
+      "duration": 4.01,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 23.3
+    },
+    {
+      "prob": 0.937219902059001,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0399",
+      "duration": 1.825,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 11.51,
+      "snr_proxy_db": 66.5
+    },
+    {
+      "prob": 0.904474719415119,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0412",
+      "duration": 1.005,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 15.1
+    },
+    {
+      "prob": 0.9043352294711074,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0419",
+      "duration": 1.655,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 1.81,
+      "snr_proxy_db": 28.9
+    },
+    {
+      "prob": 0.9225872615056907,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0421",
+      "duration": 1.555,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 10.4
+    },
+    {
+      "prob": 0.9011301918290905,
+      "source_id": "majo_ep12",
+      "blind_id": "AR0426",
+      "duration": 4.68,
+      "clipping_fraction": 0.0,
+      "clicks_per_sec": 0.0,
+      "snr_proxy_db": 61.9
+    }
+  ]
+}

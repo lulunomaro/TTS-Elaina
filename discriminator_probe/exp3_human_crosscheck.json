@@ -1,0 +1,676 @@
+{
+  "human_clips": [
+    {
+      "batch": "v1",
+      "blind_id": "B001",
+      "human_class": "overlap",
+      "error_type": "重叠说话",
+      "prob": 0.8236609007530005
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B002",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.8353195939436914
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B003",
+      "human_class": "boundary_cut",
+      "error_type": "切头/切尾",
+      "prob": 0.8953719027870938
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B004",
+      "human_class": "boundary_cut",
+      "error_type": "切头/切尾",
+      "prob": 0.9634421792255342
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B005",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.8626187302300309
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B006",
+      "human_class": "boundary_cut",
+      "error_type": "切头/切尾",
+      "prob": 0.9275970098245818
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B007",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9574867942032952
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B008",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.937796921584785
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B009",
+      "human_class": "boundary_cut",
+      "error_type": "切头/切尾",
+      "prob": 0.8752403811129292
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B010",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.8925180518745401
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B011",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.9010655696413241
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B012",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.8074843791017232
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B013",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.9546375522180728
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B014",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9406540238266468
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B015",
+      "human_class": "boundary_cut",
+      "error_type": "开头和结尾都被切",
+      "prob": 0.9093918844773221
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B016",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9157247332864548
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B017",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.9587327643474944
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B018",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.8666598405026843
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B019",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.9222329809767226
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B020",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.9546865804979119
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B021",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.8437195128633734
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B022",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.7554312327727386
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B023",
+      "human_class": "uncertain",
+      "error_type": "杂音/音质问题",
+      "prob": 0.8084465942648092
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B024",
+      "human_class": "uncertain",
+      "error_type": "环境音/道具声",
+      "prob": 0.8683754306150725
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B025",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9306483749106518
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B026",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9509212540240335
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B027",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.8715781424954491
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B028",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.941463814627744
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B029",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.8203235367686439
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B030",
+      "human_class": "boundary_cut",
+      "error_type": "开头和结尾都被切",
+      "prob": 0.8919055318485543
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B031",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.9072248030667975
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B032",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.8305433450198721
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B033",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.928677466168281
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B034",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.5364438171052976
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B035",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.7794375919492679
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B036",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.697249532717872
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B037",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.86896994133266
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B038",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.8429609476928166
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B039",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.9270564290520844
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B040",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9152219063583593
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B041",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.7791448583885188
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B042",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.9610157163014235
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B043",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.9565747791619594
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B044",
+      "human_class": "boundary_cut",
+      "error_type": "开头和结尾都被切",
+      "prob": 0.8775987436108468
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B045",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.8197480198811944
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B046",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.6600205343087155
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B047",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.8018086629320409
+    },
+    {
+      "batch": "v1",
+      "blind_id": "B048",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.873138472329841
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B001",
+      "human_class": "boundary_cut",
+      "error_type": "开头和结尾都被切",
+      "prob": 0.7726245064309537
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B002",
+      "human_class": "uncertain",
+      "error_type": "环境音/道具声",
+      "prob": 0.8728305499525963
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B003",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9561638499012888
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B004",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9431967316270914
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B005",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9777776652875216
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B006",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.813045755442175
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B007",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.9584188805042048
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B008",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.9297658557675944
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B009",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.7973774029669848
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B010",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.8759434067045363
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B011",
+      "human_class": "uncertain",
+      "error_type": "环境音/道具声",
+      "prob": 0.7946264740499189
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B012",
+      "human_class": "uncertain",
+      "error_type": "环境音/道具声",
+      "prob": 0.9058799696430745
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B013",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.8468012093762306
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B014",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.9461960066757413
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B015",
+      "human_class": "boundary_cut",
+      "error_type": "开头和结尾都被切",
+      "prob": 0.8870370963034491
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B016",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.9479316120967243
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B017",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.8338098065492425
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B018",
+      "human_class": "boundary_cut",
+      "error_type": "开头和结尾都被切",
+      "prob": 0.8730326642355569
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B019",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.955018113541182
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B020",
+      "human_class": "uncertain",
+      "error_type": "非伊蕾娜",
+      "prob": 0.21777607382554792
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B021",
+      "human_class": "uncertain",
+      "error_type": "无法确定",
+      "prob": 0.721148115091409
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B022",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9081290230433039
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B023",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.7593057420535767
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B024",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.7585616323611799
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B025",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.9062256663745619
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B026",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.9253132277182634
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B027",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9374953713234419
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B028",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.5590544048967167
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B029",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.93611660043676
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B030",
+      "human_class": "boundary_cut",
+      "error_type": "开头和结尾都被切",
+      "prob": 0.8946318691607535
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B031",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.8139467642400211
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B032",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9363958796299616
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B033",
+      "human_class": "boundary_cut",
+      "error_type": "开头和结尾都被切",
+      "prob": 0.9390183613054089
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B034",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.8623812262643313
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B035",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.8673932605229266
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B036",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.8854321595157916
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B037",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9786422379954693
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B038",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.9060580005023986
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B039",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9699182541814478
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B040",
+      "human_class": "boundary_cut",
+      "error_type": "结尾被切",
+      "prob": 0.9126895764977571
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B041",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.7933716394155355
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B042",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.8786610449015279
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B043",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.8776745291646357
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B044",
+      "human_class": "uncertain",
+      "error_type": "其他",
+      "prob": 0.6936422589701164
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B045",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.5192033093941385
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B046",
+      "human_class": "target",
+      "error_type": "",
+      "prob": 0.9002317244030067
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B047",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.8895446416237807
+    },
+    {
+      "batch": "v2",
+      "blind_id": "B048",
+      "human_class": "boundary_cut",
+      "error_type": "开头被切",
+      "prob": 0.9217824208675028
+    }
+  ]
+}

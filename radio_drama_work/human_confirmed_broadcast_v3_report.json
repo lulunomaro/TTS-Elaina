@@ -1,0 +1,29 @@
+﻿{
+  "version": "human_confirmed_broadcast_v3_report",
+  "created_at": "2026-08-02T10:49:55.881063+00:00",
+  "count": 83,
+  "duration_sec": 245.88803124999998,
+  "by_provenance": {
+    "human_confirmed_broadcast_v2": {
+      "count": 70,
+      "duration_sec": 203.13790625
+    },
+    "human_verified_full_semantic_v2_direct": {
+      "count": 13,
+      "duration_sec": 42.750125
+    }
+  },
+  "validation": {
+    "all_paths_exist": true,
+    "unique_paths": true,
+    "unique_waveform_hashes": true,
+    "format": "32kHz mono PCM16",
+    "duration": "1.5-6.0 seconds",
+    "human_heard_exact_waveforms": true
+  },
+  "upstream_interval_dedupe": "v2 machine pool was source-interval deduped against the prior human pool before blind selection",
+  "output": "F://GPTSOVITS//radio_drama_work//human_confirmed_broadcast_v3_train_1p5_6s.list",
+  "training_started": false,
+  "existing_training_lists_modified": false,
+  "score_90_claimed": false
+}

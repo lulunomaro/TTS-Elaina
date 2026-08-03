@@ -1,0 +1,16 @@
+{
+  "version": "discriminator_scored_lists_v1",
+  "model": "LogisticRegression on CAM++ 192d word embeddings",
+  "training_words": 1554,
+  "lists": {
+    "anime_431": "F:\\GPTSOVITS\\discriminator_probe\\anime_review_431_scored.list",
+    "radio_448": "F:\\GPTSOVITS\\discriminator_probe\\radio_review_448_scored.list"
+  },
+  "suggested_policy": {
+    "auto_pass": "prob >= 0.9 (precision ~0.99 at 0.9 per exp1; human-frozen recall 40%)",
+    "auto_review": "0.7 <= prob < 0.9 (exp1 precision 0.956; human-frozen coverage to 91.7%)",
+    "human_spot_check": "0.5 <= prob < 0.7",
+    "auto_reject": "prob < 0.3",
+    "note": "quality gate (NISQA/clicks/clipping) must still run on auto-pass; discriminator is speaker-only"
+  }
+}

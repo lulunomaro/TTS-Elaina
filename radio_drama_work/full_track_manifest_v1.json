@@ -1,0 +1,118 @@
+﻿{
+  "version": "full_track_manifest_v1",
+  "audio_policy": "Use original BS-Roformer vocals for all candidate audio; raw/other are retained for provenance and diagnostics only.",
+  "tracks": [
+    {
+      "id": "37141415568-1-192",
+      "raw": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//raw//37141415568-1-192.wav",
+      "vocals": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//vocals//37141415568-1-192_vocals.wav",
+      "other": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//other//37141415568-1-192_other.wav"
+    },
+    {
+      "id": "28243657968-1-192",
+      "raw": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//raw//28243657968-1-192.wav",
+      "vocals": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//vocals//28243657968-1-192_vocals.wav",
+      "other": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//other//28243657968-1-192_other.wav"
+    },
+    {
+      "id": "37239655783-1-192",
+      "raw": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//raw//37239655783-1-192.wav",
+      "vocals": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//vocals//37239655783-1-192_vocals.wav",
+      "other": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//other//37239655783-1-192_other.wav"
+    },
+    {
+      "id": "1405372904-1-192",
+      "raw": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//raw//1405372904-1-192.wav",
+      "vocals": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//vocals//1405372904-1-192_vocals.wav",
+      "other": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//other//1405372904-1-192_other.wav",
+      "guarded": true
+    },
+    {
+      "id": "306672160-1-192",
+      "raw": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//raw//306672160-1-192.wav",
+      "vocals": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//vocals//306672160-1-192_vocals.wav",
+      "other": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//other//306672160-1-192_other.wav",
+      "guarded": true
+    },
+    {
+      "id": "243358894-1-192",
+      "raw": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//raw//243358894-1-192.wav",
+      "vocals": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//vocals//243358894-1-192_vocals.wav",
+      "other": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//other//243358894-1-192_other.wav"
+    },
+    {
+      "id": "253810599-1-192",
+      "raw": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//raw//253810599-1-192.wav",
+      "vocals": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//vocals//253810599-1-192_vocals.wav",
+      "other": "F://GPTSOVITS//radio_drama_work//new_radio_batch_v1//other//253810599-1-192_other.wav"
+    },
+    {
+      "id": "1311215796_u1-1-192",
+      "raw": "F://GPTSOVITS//radio_drama_work//new_raw//1311215796_u1-1-192.wav",
+      "vocals": "F://GPTSOVITS//radio_drama_work//new_vocals//1311215796_u1-1-192_vocals.wav",
+      "other": null
+    },
+    {
+      "id": "1405440540-1-192",
+      "raw": "F://GPTSOVITS//radio_drama_work//new_raw//1405440540-1-192.wav",
+      "vocals": "F://GPTSOVITS//radio_drama_work//new_vocals//1405440540-1-192_vocals.wav",
+      "other": null
+    },
+    {
+      "id": "28055832533-1-192",
+      "raw": "F://GPTSOVITS//radio_drama_work//new_raw//28055832533-1-192.wav",
+      "vocals": "F://GPTSOVITS//radio_drama_work//new_vocals//28055832533-1-192_vocals.wav",
+      "other": null
+    },
+    {
+      "id": "113814583-1-160",
+      "raw": "F://GPTSOVITS//radio_drama_work//raw//113814583-1-160.wav",
+      "vocals": "F://GPTSOVITS//radio_drama_work//vocals//113814583-1-160_vocals.wav",
+      "other": null
+    },
+    {
+      "id": "280479210-1-192",
+      "raw": "F://GPTSOVITS//radio_drama_work//raw//280479210-1-192.wav",
+      "vocals": "F://GPTSOVITS//radio_drama_work//vocals//280479210-1-192_vocals.wav",
+      "other": null
+    }
+  ],
+  "excluded_sources": [
+    "202607311250"
+  ],
+  "excluded_basenames": [
+    "28055832533-1-192_vocals_0013268480_0013539200_safe_word_000.wav",
+    "28055832533-1-192_vocals_0013268480_0013539200_safe_word_001.wav"
+  ],
+  "hard_exclusions": [
+    {
+      "source_id": "243358894-1-192",
+      "start": 106.805,
+      "end": 109.555,
+      "reason": "user rejected old newradio_00001"
+    },
+    {
+      "source_id": "243358894-1-192",
+      "start": 234.945,
+      "end": 237.915,
+      "reason": "user rejected old newradio_00003"
+    },
+    {
+      "source_id": "243358894-1-192",
+      "start": 249.0,
+      "end": 251.0,
+      "reason": "user rejected old newradio_00004"
+    }
+  ],
+  "negative_files": [
+    "F://GPTSOVITS//radio_drama_work//new_candidates_sp75//28055832533-1-192_vocals_0017516160_0017573120.wav",
+    "F://GPTSOVITS//radio_drama_work//recall_review_pack_v2//recall_004_rank0.572_p250.568_1311215796_u1-1-192_vocals_0006943360_0007132160_0000140800_0000188800.wav",
+    "F://GPTSOVITS//radio_drama_work//new_radio_quality_v1//accepted_segments//newradio_00001_243358894-1-192_vocals_0003417760_0003505760.wav",
+    "F://GPTSOVITS//radio_drama_work//new_radio_quality_v1//accepted_segments//newradio_00003_243358894-1-192_vocals_0007518240_0007613280.wav",
+    "F://GPTSOVITS//radio_drama_work//new_radio_quality_v1//accepted_segments//newradio_00004_243358894-1-192_vocals_0007968000_0008032000.wav"
+  ],
+  "history_inputs": [
+    "F://GPTSOVITS//radio_drama_work//radio_drama_pure",
+    "F://GPTSOVITS//radio_drama_work//full_funasr_gold_v9//accepted_segments"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": "discriminator_probe_exp1",
+  "samples": {
+    "total": 1554,
+    "pos": 752,
+    "neg": 802,
+    "labels_used": 146
+  },
+  "auc_logo": 0.9699,
+  "operating_points": {
+    "0.3": {
+      "threshold": 0.292,
+      "tp": 735,
+      "fp": 167,
+      "precision": 0.815,
+      "recall": 0.977
+    },
+    "0.5": {
+      "threshold": 0.499,
+      "tp": 694,
+      "fp": 74,
+      "precision": 0.904,
+      "recall": 0.923
+    },
+    "0.7": {
+      "threshold": 0.7,
+      "tp": 634,
+      "fp": 29,
+      "precision": 0.956,
+      "recall": 0.843
+    },
+    "0.9": {
+      "threshold": 0.906,
+      "tp": 383,
+      "fp": 4,
+      "precision": 0.99,
+      "recall": 0.509
+    }
+  },
+  "note": "CAM++ 192-dim word embeddings; leave-one-human-label-out logistic regression"
+}

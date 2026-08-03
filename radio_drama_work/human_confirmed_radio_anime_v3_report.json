@@ -1,0 +1,59 @@
+﻿{
+  "version": "human_confirmed_radio_anime_v2_report",
+  "created_at": "2026-08-02T14:32:41.300042+00:00",
+  "inputs": [
+    {
+      "group": "radio_v5",
+      "path": "F://GPTSOVITS//radio_drama_work//human_confirmed_broadcast_v5_train_1p5_6s.list",
+      "count": 89,
+      "duration_sec": 262.44425
+    },
+    {
+      "group": "anime_direct_v1",
+      "path": "F://GPTSOVITS//radio_drama_work//human_verified_anime_semantic_v1_direct.list",
+      "count": 11,
+      "duration_sec": 37.685031249999994
+    },
+    {
+      "group": "anime_review_v1",
+      "path": "F://GPTSOVITS//radio_drama_work//human_verified_anime_review_batch_v1.list",
+      "count": 19,
+      "duration_sec": 51.475000000000016
+    },
+    {
+      "group": "anime_boundary_rescue_v1",
+      "path": "F://GPTSOVITS//radio_drama_work//human_verified_anime_boundary_rescue_v1.list",
+      "count": 10,
+      "duration_sec": 26.34509375
+    },
+    {
+      "group": "anime_review_v2",
+      "path": "F://GPTSOVITS//radio_drama_work//human_verified_anime_review_batch_v2.list",
+      "count": 20,
+      "duration_sec": 64.21503125
+    }
+  ],
+  "anime_only": {
+    "count": 60,
+    "duration_sec": 179.72015624999992,
+    "list": "F://GPTSOVITS//radio_drama_work//human_verified_anime_v3_train_1p5_6s.list"
+  },
+  "combined": {
+    "count": 149,
+    "duration_sec": 442.16440625000007,
+    "list": "F://GPTSOVITS//radio_drama_work//human_confirmed_radio_anime_v3_train_1p5_6s.list"
+  },
+  "unique_paths": 149,
+  "unique_hashes": 149,
+  "format_policy": "32 kHz mono PCM16; 1.5-6.0 sec; nonempty non-FFFD text",
+  "training_started": false,
+  "existing_training_lists_modified": false,
+  "score_90_claimed": false,
+  "groups": {
+    "radio_v5": 89,
+    "anime_direct_v1": 11,
+    "anime_review_v1": 19,
+    "anime_boundary_rescue_v1": 10,
+    "anime_review_v2": 20
+  }
+}

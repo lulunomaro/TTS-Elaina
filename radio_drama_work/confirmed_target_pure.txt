@@ -1,0 +1,6 @@
+﻿# Human-confirmed pure Ireina audio. Keep as positive references; do not add to training automatically.
+# Format: audio path | reason
+radio_drama_work/recall_review_pack_v3/recall_001_rank0.593_p250.594_1311215796_u1-1-192_vocals_0018844160_0018899200_0000007040_0000055040.wav | pure Ireina confirmed by user
+radio_drama_work/recall_review_pack_v3/recall_002_rank0.579_p250.568_28055832533-1-192_vocals_0015066240_0015190400_0000032000_0000080000.wav | pure Ireina confirmed by user
+radio_drama_work/recall_review_pack_v3/recall_003_rank0.577_p250.568_28055832533-1-192_vocals_0014717440_0014883200_0000000000_0000048000.wav | pure Ireina confirmed by user
+radio_drama_work/recall_review_pack_v3/recall_004_rank0.570_p250.561_28055832533-1-192_vocals_0024772480_0024890880_0000070400_0000118400.wav | pure Ireina confirmed by user

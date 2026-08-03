@@ -1,0 +1,22 @@
+﻿{
+  "version": "human_confirmed_broadcast_v4_report",
+  "created_at": "2026-08-02T11:38:28.177579+00:00",
+  "inputs": {
+    "human_confirmed_broadcast_v3_train_1p5_6s.list": 83,
+    "human_verified_full_semantic_v2_rescues_v1.list": 4
+  },
+  "count": 87,
+  "duration_sec": 256.90425,
+  "list": "F://GPTSOVITS//radio_drama_work//human_confirmed_broadcast_v4_train_1p5_6s.list",
+  "checks": {
+    "paths_exist": true,
+    "unique_paths": true,
+    "unique_waveform_hashes": true,
+    "format_32k_mono_pcm16": true,
+    "duration_1p5_to_6s": true,
+    "valid_text": true
+  },
+  "training_started": false,
+  "existing_lists_modified": false,
+  "score_90_claimed": false
+}

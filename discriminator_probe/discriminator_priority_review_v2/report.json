@@ -1,0 +1,110 @@
+{
+  "version": "discriminator_priority_review_v2_report",
+  "created_at": "2026-08-02T15:09:27.539532+00:00",
+  "input_counts": {
+    "anime": 431,
+    "radio": 448
+  },
+  "input_tiers": {
+    "anime": {
+      "p>=0.9": 195,
+      "0.7-0.9": 206,
+      "0.5-0.7": 25,
+      "0.3-0.5": 4,
+      "<0.3": 1
+    },
+    "radio": {
+      "p>=0.9": 93,
+      "0.7-0.9": 173,
+      "0.5-0.7": 98,
+      "0.3-0.5": 54,
+      "<0.3": 30
+    }
+  },
+  "excluded_counts": {
+    "already_reviewed_or_calibrated": 359,
+    "hard_mask": 12
+  },
+  "low_score_count": 19,
+  "eligible_count": 489,
+  "per_pool": {
+    "anime": {
+      "available_after_exclusion": 239,
+      "selected": 24,
+      "selected_tiers": {
+        "p>=0.9": 22,
+        "0.7-0.9": 2
+      },
+      "selected_sources": {
+        "majo_ep06": 7,
+        "majo_ep02": 6,
+        "majo_ep12": 2,
+        "majo_ep07": 1,
+        "majo_ep01": 2,
+        "majo_ep03": 1,
+        "majo_ep05": 1,
+        "majo_ep04": 1,
+        "majo_ep09": 1,
+        "majo_ep08": 1,
+        "majo_ep11": 1
+      }
+    },
+    "radio": {
+      "available_after_exclusion": 250,
+      "selected": 24,
+      "selected_tiers": {
+        "p>=0.9": 18,
+        "0.7-0.9": 6
+      },
+      "selected_sources": {
+        "243358894-1-192": 8,
+        "253810599-1-192": 5,
+        "1405372904-1-192": 1,
+        "113814583-1-160": 2,
+        "280479210-1-192": 1,
+        "37239655783-1-192": 1,
+        "1405440540-1-192": 1,
+        "28055832533-1-192": 1,
+        "28243657968-1-192": 1,
+        "306672160-1-192": 1,
+        "1311215796_u1-1-192": 1,
+        "37141415568-1-192": 1
+      }
+    }
+  },
+  "selected_count": 48,
+  "selected_duration_sec": 106.69068750000001,
+  "selected_tiers": {
+    "p>=0.9": 40,
+    "0.7-0.9": 8
+  },
+  "selected_sources": {
+    "majo_ep06": 7,
+    "majo_ep02": 6,
+    "majo_ep12": 2,
+    "majo_ep07": 1,
+    "majo_ep01": 2,
+    "majo_ep03": 1,
+    "majo_ep05": 1,
+    "majo_ep04": 1,
+    "majo_ep09": 1,
+    "majo_ep08": 1,
+    "majo_ep11": 1,
+    "243358894-1-192": 8,
+    "253810599-1-192": 5,
+    "1405372904-1-192": 1,
+    "113814583-1-160": 2,
+    "280479210-1-192": 1,
+    "37239655783-1-192": 1,
+    "1405440540-1-192": 1,
+    "28055832533-1-192": 1,
+    "28243657968-1-192": 1,
+    "306672160-1-192": 1,
+    "1311215796_u1-1-192": 1,
+    "37141415568-1-192": 1
+  },
+  "machine_scores_hidden_in_html": true,
+  "training_started": false,
+  "existing_training_lists_modified": false,
+  "score_90_claimed": false
+}

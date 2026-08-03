@@ -1,0 +1,3626 @@
+{
+  "anime_review_431": {
+    "pool_size": 431,
+    "scored": [
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0101",
+        "start": 734.585,
+        "end": 736.13,
+        "duration": 1.545,
+        "text": "のこが苦手です",
+        "disc_prob": 0.9786
+      },
+      {
+        "source_id": "majo_ep05",
+        "blind_id": "AR0175",
+        "start": 1183.43,
+        "end": 1185.21,
+        "duration": 1.78,
+        "text": "どこか別の国",
+        "disc_prob": 0.9778
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0202",
+        "start": 587.385,
+        "end": 589.62,
+        "duration": 2.235,
+        "text": "事情とやらを話してくれました",
+        "disc_prob": 0.9771
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0036",
+        "start": 535.845,
+        "end": 536.795,
+        "duration": 0.95,
+        "text": "になったのですか",
+        "disc_prob": 0.9744
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0193",
+        "start": 641.735,
+        "end": 643.94,
+        "duration": 2.205,
+        "text": "魔力の寄り代にしようとしました",
+        "disc_prob": 0.9743
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0076",
+        "start": 688.705,
+        "end": 690.595,
+        "duration": 1.89,
+        "text": "ら最後に勝ち残った一",
+        "disc_prob": 0.9727
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0216",
+        "start": 24.485,
+        "end": 26.94,
+        "duration": 2.455,
+        "text": "どうしてそんなことになるんですか",
+        "disc_prob": 0.972
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0002",
+        "start": 517.805,
+        "end": 522.48,
+        "duration": 4.675,
+        "text": "1ヶ月が経ちました",
+        "disc_prob": 0.9716
+      },
+      {
+        "source_id": "majo_ep05",
+        "blind_id": "AR0169",
+        "start": 1179.485,
+        "end": 1183.45,
+        "duration": 3.965,
+        "text": "しいのですが花は枯れてしまいます",
+        "disc_prob": 0.9702
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0196",
+        "start": 179.985,
+        "end": 182.18,
+        "duration": 2.195,
+        "text": "つけないかどうか試してみましょう",
+        "disc_prob": 0.97
+      },
+      {
+        "source_id": "majo_ep05",
+        "blind_id": "AR0168",
+        "start": 1190.81,
+        "end": 1194.29,
+        "duration": 3.48,
+        "text": "悲しくなってしまうかもしれません",
+        "disc_prob": 0.9699
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0156",
+        "start": 5.53,
+        "end": 9.59,
+        "duration": 4.06,
+        "text": "とある国の王女様が恋に落ちました。",
+        "disc_prob": 0.9692
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0084",
+        "start": 1310.835,
+        "end": 1314.09,
+        "duration": 3.255,
+        "text": "大変に説教くさい話だったのです",
+        "disc_prob": 0.9684
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0366",
+        "start": 1226.73,
+        "end": 1230.4,
+        "duration": 3.67,
+        "text": "この紙を取り戻しに行こうかなと思います",
+        "disc_prob": 0.9676
+      },
+      {
+        "source_id": "majo_ep09",
+        "blind_id": "AR0306",
+        "start": 541.33,
+        "end": 543.235,
+        "duration": 1.905,
+        "text": "大丈夫じゃないのでは",
+        "disc_prob": 0.9669
+      },
+      {
+        "source_id": "majo_ep05",
+        "blind_id": "AR0171",
+        "start": 1081.71,
+        "end": 1086.76,
+        "duration": 5.05,
+        "text": "この国を何度も素敵だと感じていました",
+        "disc_prob": 0.9668
+      },
+      {
+        "source_id": "majo_ep05",
+        "blind_id": "AR0178",
+        "start": 1200.575,
+        "end": 1205.56,
+        "duration": 4.985,
+        "text": "悲しい思いをしなくて済むかもしれないと",
+        "disc_prob": 0.9643
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0060",
+        "start": 19.83,
+        "end": 21.67,
+        "duration": 1.84,
+        "text": "この魔女の証",
+        "disc_prob": 0.9634
+      },
+      {
+        "source_id": "majo_ep09",
+        "blind_id": "AR0289",
+        "start": 200.89,
+        "end": 203.28,
+        "duration": 2.39,
+        "text": "穏やかではない響きですね",
+        "disc_prob": 0.9633
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0081",
+        "start": 403.025,
+        "end": 408.73,
+        "duration": 5.705,
+        "text": "吸ってしまうようになり自我を手に入れて暴れるという内容でした",
+        "disc_prob": 0.9629
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0262",
+        "start": 557.74,
+        "end": 558.775,
+        "duration": 1.035,
+        "text": "が数",
+        "disc_prob": 0.9628
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0098",
+        "start": 396.985,
+        "end": 400.29,
+        "duration": 3.305,
+        "text": "を浴びることによって魔力を吐き出してくれます",
+        "disc_prob": 0.9619
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0186",
+        "start": 1046.045,
+        "end": 1048.37,
+        "duration": 2.325,
+        "text": "剣を収めるサヤのことです",
+        "disc_prob": 0.9618
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0189",
+        "start": 722.505,
+        "end": 726.38,
+        "duration": 3.875,
+        "text": "正直者の国が誕生したのでした",
+        "disc_prob": 0.9612
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0208",
+        "start": 475.64,
+        "end": 479.015,
+        "duration": 3.375,
+        "text": "墨ですか私の灰の魔女と少",
+        "disc_prob": 0.961
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0195",
+        "start": 674.675,
+        "end": 679.85,
+        "duration": 5.175,
+        "text": "して何かしようとする人は自分の声やら記憶やらを代償にするのでしょう",
+        "disc_prob": 0.96
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0074",
+        "start": 1249.925,
+        "end": 1253.99,
+        "duration": 4.065,
+        "text": "んわんなく彼女をなだめたり魔術試験の突破方法",
+        "disc_prob": 0.9595
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0209",
+        "start": 489.485,
+        "end": 491.61,
+        "duration": 2.125,
+        "text": "教会に入ってるんですか",
+        "disc_prob": 0.9594
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0070",
+        "start": 910.295,
+        "end": 911.66,
+        "duration": 1.365,
+        "text": "法で空気の流れ",
+        "disc_prob": 0.9587
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0199",
+        "start": 259.49,
+        "end": 265.275,
+        "duration": 5.785,
+        "text": "この国の王様は何を考えてこのように国を変えたのでしょう",
+        "disc_prob": 0.9587
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0085",
+        "start": 385.35,
+        "end": 388.87,
+        "duration": 3.52,
+        "text": "私の大好きな本ニケの冒険譚",
+        "disc_prob": 0.9584
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0254",
+        "start": 559.085,
+        "end": 560.975,
+        "duration": 1.89,
+        "text": "数週間と経つうち",
+        "disc_prob": 0.9584
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0078",
+        "start": 420.7,
+        "end": 424.5,
+        "duration": 3.8,
+        "text": "確認したいことがあったのです",
+        "disc_prob": 0.9575
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0256",
+        "start": 684.735,
+        "end": 686.6,
+        "duration": 1.865,
+        "text": "字を刻んだのでしょうか",
+        "disc_prob": 0.9566
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0224",
+        "start": 594.99,
+        "end": 597.91,
+        "duration": 2.92,
+        "text": "通りなどどうでもよくなっていました",
+        "disc_prob": 0.9565
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0001",
+        "start": 91.83,
+        "end": 97.04,
+        "duration": 5.21,
+        "text": "歳で魔術試験に合格し魔女見習いになった少女がいます",
+        "disc_prob": 0.9563
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0080",
+        "start": 1285.49,
+        "end": 1288.73,
+        "duration": 3.24,
+        "text": "私はその時思い出したのです",
+        "disc_prob": 0.9562
+      },
+      {
+        "source_id": "majo_ep05",
+        "blind_id": "AR0182",
+        "start": 288.01,
+        "end": 289.025,
+        "duration": 1.015,
+        "text": "何の",
+        "disc_prob": 0.9552
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0239",
+        "start": 686.58,
+        "end": 688.94,
+        "duration": 2.36,
+        "text": "いえまさかですね",
+        "disc_prob": 0.955
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0365",
+        "start": 1206.885,
+        "end": 1212.75,
+        "duration": 5.865,
+        "text": "論の末にようやく本のタイトルが決まったのでした",
+        "disc_prob": 0.955
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0097",
+        "start": 1321.595,
+        "end": 1324.685,
+        "duration": 3.09,
+        "text": "からニノさんがどうなったかは私は知りません",
+        "disc_prob": 0.9547
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0235",
+        "start": 578.905,
+        "end": 580.95,
+        "duration": 2.045,
+        "text": "思い出となってしまったのです",
+        "disc_prob": 0.9547
+      },
+      {
+        "source_id": "majo_ep05",
+        "blind_id": "AR0180",
+        "start": 741.895,
+        "end": 743.77,
+        "duration": 1.875,
+        "text": "お母さんに聞いたんですか",
+        "disc_prob": 0.9546
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0130",
+        "start": 28.06,
+        "end": 29.025,
+        "duration": 0.965,
+        "text": "知りませんけど。",
+        "disc_prob": 0.9542
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0221",
+        "start": 202.395,
+        "end": 206.57,
+        "duration": 4.175,
+        "text": "がつけないというのは本当のことだったのですね",
+        "disc_prob": 0.9542
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0222",
+        "start": 595.645,
+        "end": 597.53,
+        "duration": 1.885,
+        "text": "で働く魔女のエイヘミアさん",
+        "disc_prob": 0.9542
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0223",
+        "start": 669.18,
+        "end": 673.33,
+        "duration": 4.15,
+        "text": "国は旅人や観光客のためにあるものではなく、",
+        "disc_prob": 0.9541
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0005",
+        "start": 6.33,
+        "end": 11.04,
+        "duration": 4.71,
+        "text": "幼い頃から私は本を読むのが好きでした",
+        "disc_prob": 0.953
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0094",
+        "start": 400.27,
+        "end": 402.715,
+        "duration": 2.445,
+        "text": "それが突然変異によって魔",
+        "disc_prob": 0.9527
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0071",
+        "start": 1300.325,
+        "end": 1304.6,
+        "duration": 4.275,
+        "text": "彼女の苦悩の日々と将来への希望が綴ら",
+        "disc_prob": 0.9526
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0073",
+        "start": 702.435,
+        "end": 703.785,
+        "duration": 1.35,
+        "text": "のあなたの実力では",
+        "disc_prob": 0.9526
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0083",
+        "start": 416.785,
+        "end": 420.72,
+        "duration": 3.935,
+        "text": "国へと向かう前に昨日の花畑に向かいました",
+        "disc_prob": 0.9523
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0031",
+        "start": 1238.905,
+        "end": 1241.35,
+        "duration": 2.445,
+        "text": "人には会えたのですか",
+        "disc_prob": 0.9522
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0086",
+        "start": 388.85,
+        "end": 394.22,
+        "duration": 5.37,
+        "text": "そこには奇妙な植物について書かれていた物語がありました",
+        "disc_prob": 0.9518
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0227",
+        "start": 550.1,
+        "end": 554.88,
+        "duration": 4.78,
+        "text": "この国の人たちが好きなように壁に文字を刻むようになりました",
+        "disc_prob": 0.9513
+      },
+      {
+        "source_id": "majo_ep09",
+        "blind_id": "AR0321",
+        "start": 228.26,
+        "end": 230.12,
+        "duration": 1.86,
+        "text": "幸中の幸いですね",
+        "disc_prob": 0.9509
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0362",
+        "start": 1123.32,
+        "end": 1128.01,
+        "duration": 4.69,
+        "text": "寄り互いの旅の物語を回し読みしたのです",
+        "disc_prob": 0.9503
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0066",
+        "start": 172.025,
+        "end": 173.895,
+        "duration": 1.87,
+        "text": "高位である魔女は特に尊",
+        "disc_prob": 0.9493
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0251",
+        "start": 682.055,
+        "end": 684.345,
+        "duration": 2.29,
+        "text": "来壁がなくなるようにと考えて",
+        "disc_prob": 0.9492
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0188",
+        "start": 280.865,
+        "end": 285.555,
+        "duration": 4.69,
+        "text": "ってしまえば魔法と名のつくものに首を突っ込んでくる謎組織のことです",
+        "disc_prob": 0.9491
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0372",
+        "start": 331.475,
+        "end": 335.04,
+        "duration": 3.565,
+        "text": "れてるのが心に深い闇を抱えた私",
+        "disc_prob": 0.9487
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0219",
+        "start": 370.185,
+        "end": 372.6,
+        "duration": 2.415,
+        "text": "でこの国の皆さんは喋らないんです",
+        "disc_prob": 0.9484
+      },
+      {
+        "source_id": "majo_ep11",
+        "blind_id": "AR0339",
+        "start": 944.725,
+        "end": 950.85,
+        "duration": 6.125,
+        "text": "私たちは親切な男の人が教えてくれたリーダーの居場所へと向かったのです",
+        "disc_prob": 0.9481
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0136",
+        "start": 441.34,
+        "end": 445.65,
+        "duration": 4.31,
+        "text": "その化け物が国を滅ぼした悪魔であり記憶喪",
+        "disc_prob": 0.9479
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0068",
+        "start": 1182.675,
+        "end": 1183.665,
+        "duration": 0.99,
+        "text": "私にもわか",
+        "disc_prob": 0.947
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0012",
+        "start": 1098.1,
+        "end": 1103.92,
+        "duration": 5.82,
+        "text": "ちょっと大変なこともあったりしました",
+        "disc_prob": 0.9464
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0157",
+        "start": 895.93,
+        "end": 900.54,
+        "duration": 4.61,
+        "text": "りの人だというのに彼女には生きていてほしいと思ってしまうのです",
+        "disc_prob": 0.9464
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0072",
+        "start": 177.625,
+        "end": 179.235,
+        "duration": 1.61,
+        "text": "チヤホヤされると噂で聞",
+        "disc_prob": 0.9462
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0260",
+        "start": 576.58,
+        "end": 578.475,
+        "duration": 1.895,
+        "text": "て去ることのできない恥",
+        "disc_prob": 0.946
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0006",
+        "start": 1288.54,
+        "end": 1290.99,
+        "duration": 2.45,
+        "text": "だから旅をさせてください",
+        "disc_prob": 0.9458
+      },
+      {
+        "source_id": "majo_ep11",
+        "blind_id": "AR0351",
+        "start": 1115.875,
+        "end": 1118.265,
+        "duration": 2.39,
+        "text": "の向こうにある島から持ち込まれたもの",
+        "disc_prob": 0.9453
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0103",
+        "start": 736.14,
+        "end": 739.21,
+        "duration": 3.07,
+        "text": "戦わないという手もあるんじゃないですか",
+        "disc_prob": 0.9439
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0206",
+        "start": 318.305,
+        "end": 321.895,
+        "duration": 3.59,
+        "text": "あのベストセラー作家もあまりのつまらなさに驚愕",
+        "disc_prob": 0.9438
+      },
+      {
+        "source_id": "majo_ep08",
+        "blind_id": "AR0279",
+        "start": 14.555,
+        "end": 18.52,
+        "duration": 3.965,
+        "text": "お人形のように綺麗で可愛らしく夏の太陽だ",
+        "disc_prob": 0.9435
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0087",
+        "start": 1138.415,
+        "end": 1140.9,
+        "duration": 2.485,
+        "text": "げる絶好の機会じゃないですか",
+        "disc_prob": 0.9432
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0140",
+        "start": 1262.24,
+        "end": 1267.84,
+        "duration": 5.6,
+        "text": "お父様はジャバリエは国を破壊し国民を",
+        "disc_prob": 0.9432
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0385",
+        "start": 474.83,
+        "end": 478.52,
+        "duration": 3.69,
+        "text": "主人公の私よく考えてください",
+        "disc_prob": 0.9432
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0191",
+        "start": 506.985,
+        "end": 509.335,
+        "duration": 2.35,
+        "text": "教会の魔女を探している人に会いました",
+        "disc_prob": 0.9431
+      },
+      {
+        "source_id": "majo_ep05",
+        "blind_id": "AR0179",
+        "start": 1045.825,
+        "end": 1048.715,
+        "duration": 2.89,
+        "text": "法で大道芸をやっていたのも卒業生",
+        "disc_prob": 0.9429
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0057",
+        "start": 792.395,
+        "end": 794.105,
+        "duration": 1.71,
+        "text": "キを乗りこなせるようになってしま",
+        "disc_prob": 0.9424
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0364",
+        "start": 977.28,
+        "end": 982.98,
+        "duration": 5.7,
+        "text": "結局互いに魔力を使い果たしても決着はつきません",
+        "disc_prob": 0.9422
+      },
+      {
+        "source_id": "majo_ep10",
+        "blind_id": "AR0334",
+        "start": 1433.67,
+        "end": 1436.555,
+        "duration": 2.885,
+        "text": "そう自由の街ク",
+        "disc_prob": 0.9415
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0354",
+        "start": 1416.31,
+        "end": 1421.36,
+        "duration": 5.05,
+        "text": "私はまだ知りませんでした",
+        "disc_prob": 0.9409
+      },
+      {
+        "source_id": "majo_ep05",
+        "blind_id": "AR0172",
+        "start": 286.01,
+        "end": 288.32,
+        "duration": 2.31,
+        "text": "っきの学校の生徒さんですか",
+        "disc_prob": 0.9407
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0203",
+        "start": 742.035,
+        "end": 743.905,
+        "duration": 1.87,
+        "text": "法以外の価値が薄いのは当然",
+        "disc_prob": 0.94
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0211",
+        "start": 804.325,
+        "end": 805.535,
+        "duration": 1.21,
+        "text": "直者の国です",
+        "disc_prob": 0.9393
+      },
+      {
+        "source_id": "majo_ep05",
+        "blind_id": "AR0170",
+        "start": 1188.205,
+        "end": 1190.83,
+        "duration": 2.625,
+        "text": "先生とこの国のことを思い出して",
+        "disc_prob": 0.939
+      },
+      {
+        "source_id": "majo_ep11",
+        "blind_id": "AR0350",
+        "start": 1343.105,
+        "end": 1345.69,
+        "duration": 2.585,
+        "text": "の自由な旅が終わってしまうような気",
+        "disc_prob": 0.939
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0367",
+        "start": 229.425,
+        "end": 233.6,
+        "duration": 4.175,
+        "text": "灰の魔女ならぬ灰の魔女イレイナです",
+        "disc_prob": 0.9388
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0214",
+        "start": 728.435,
+        "end": 732.085,
+        "duration": 3.65,
+        "text": "魔力を失ったことで役立つとして王",
+        "disc_prob": 0.9385
+      },
+      {
+        "source_id": "majo_ep08",
+        "blind_id": "AR0275",
+        "start": 842.195,
+        "end": 843.785,
+        "duration": 1.59,
+        "text": "どうしてそこまで熱くなれる",
+        "disc_prob": 0.9385
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0088",
+        "start": 1288.71,
+        "end": 1291.83,
+        "duration": 3.12,
+        "text": "昔読んだ本の結末を",
+        "disc_prob": 0.9378
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0162",
+        "start": 901.96,
+        "end": 905.96,
+        "duration": 4.0,
+        "text": "も一緒に戦います死なない程度に",
+        "disc_prob": 0.9375
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0034",
+        "start": 182.81,
+        "end": 187.535,
+        "duration": 4.725,
+        "text": "ですが魔術試験を最年少で合格した私",
+        "disc_prob": 0.9373
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0368",
+        "start": 1035.38,
+        "end": 1040.2,
+        "duration": 4.82,
+        "text": "だからこそこの国に来て私たちに出会ったのです",
+        "disc_prob": 0.9372
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0399",
+        "start": 1026.01,
+        "end": 1027.835,
+        "duration": 1.825,
+        "text": "私には別",
+        "disc_prob": 0.9372
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0232",
+        "start": 544.44,
+        "end": 550.12,
+        "duration": 5.68,
+        "text": "少し前にこの国を訪れた魔女の助言により",
+        "disc_prob": 0.9371
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0135",
+        "start": 391.875,
+        "end": 395.26,
+        "duration": 3.385,
+        "text": "どうして記憶がないのか少しばか",
+        "disc_prob": 0.9365
+      },
+      {
+        "source_id": "majo_ep09",
+        "blind_id": "AR0326",
+        "start": 670.65,
+        "end": 672.72,
+        "duration": 2.07,
+        "text": "うまくいくといいですけど",
+        "disc_prob": 0.9364
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0201",
+        "start": 220.575,
+        "end": 223.24,
+        "duration": 2.665,
+        "text": "喋らないんでしょう",
+        "disc_prob": 0.9361
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0380",
+        "start": 456.455,
+        "end": 458.085,
+        "duration": 1.63,
+        "text": "私たちは呼んでいます",
+        "disc_prob": 0.9347
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0241",
+        "start": 572.1,
+        "end": 576.655,
+        "duration": 4.555,
+        "text": "旅人ではなくその国の人たちが刻んだ文字は捨",
+        "disc_prob": 0.9344
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0062",
+        "start": 800.815,
+        "end": 802.245,
+        "duration": 1.43,
+        "text": "気分なのかもしれません",
+        "disc_prob": 0.9334
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0242",
+        "start": 827.13,
+        "end": 829.1,
+        "duration": 1.97,
+        "text": "それほどですか",
+        "disc_prob": 0.9319
+      },
+      {
+        "source_id": "majo_ep09",
+        "blind_id": "AR0294",
+        "start": 72.23,
+        "end": 77.72,
+        "duration": 5.49,
+        "text": "興味がある方は今すぐ以下の住所まで",
+        "disc_prob": 0.9315
+      },
+      {
+        "source_id": "majo_ep09",
+        "blind_id": "AR0308",
+        "start": 458.89,
+        "end": 461.27,
+        "duration": 2.38,
+        "text": "どれくらい足りないんですか",
+        "disc_prob": 0.9306
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0197",
+        "start": 246.285,
+        "end": 251.875,
+        "duration": 5.59,
+        "text": "直者しかいない国というからどこか清らかな人々の姿を想像していたのです",
+        "disc_prob": 0.9305
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0096",
+        "start": 39.19,
+        "end": 41.585,
+        "duration": 2.395,
+        "text": "色とりどりの花々に負けず劣ら",
+        "disc_prob": 0.9304
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0217",
+        "start": 236.025,
+        "end": 238.07,
+        "duration": 2.045,
+        "text": "これ硬いしパサパサだ",
+        "disc_prob": 0.9303
+      },
+      {
+        "source_id": "majo_ep08",
+        "blind_id": "AR0267",
+        "start": 18.395,
+        "end": 22.76,
+        "duration": 4.365,
+        "text": "ってもっと熱く燃えてしまいそうな美女は一体誰でしょう",
+        "disc_prob": 0.9298
+      },
+      {
+        "source_id": "majo_ep09",
+        "blind_id": "AR0286",
+        "start": 683.49,
+        "end": 686.02,
+        "duration": 2.53,
+        "text": "分と違ったものになっていそうですね",
+        "disc_prob": 0.9295
+      },
+      {
+        "source_id": "majo_ep09",
+        "blind_id": "AR0320",
+        "start": 704.84,
+        "end": 710.12,
+        "duration": 5.28,
+        "text": "あの大変失礼なんですけどそれって意味あるんですか",
+        "disc_prob": 0.9295
+      },
+      {
+        "source_id": "majo_ep11",
+        "blind_id": "AR0344",
+        "start": 1415.3,
+        "end": 1419.615,
+        "duration": 4.315,
+        "text": "私は私の物語を5巻では終わらないようにしたい",
+        "disc_prob": 0.9287
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0258",
+        "start": 649.925,
+        "end": 651.875,
+        "duration": 1.95,
+        "text": "ていることに気づかなかったのですか",
+        "disc_prob": 0.9283
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0108",
+        "start": 192.705,
+        "end": 195.755,
+        "duration": 3.05,
+        "text": "ってもおそらく着くのは真夜中になってしまいます",
+        "disc_prob": 0.9281
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0253",
+        "start": 1122.935,
+        "end": 1126.485,
+        "duration": 3.55,
+        "text": "酒を作るために朝から晩までフミフミしてる",
+        "disc_prob": 0.928
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0065",
+        "start": 30.265,
+        "end": 32.175,
+        "duration": 1.91,
+        "text": "目を細めてしまうほどの美女",
+        "disc_prob": 0.9276
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0120",
+        "start": 814.05,
+        "end": 816.65,
+        "duration": 2.6,
+        "text": "準備が死ぬほどだるいのが欠点です",
+        "disc_prob": 0.9275
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0092",
+        "start": 625.14,
+        "end": 627.635,
+        "duration": 2.495,
+        "text": "綺麗な景色を魔法で複製して",
+        "disc_prob": 0.9271
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0233",
+        "start": 525.1,
+        "end": 528.67,
+        "duration": 3.57,
+        "text": "それともただのしわくちゃおじいさんですか",
+        "disc_prob": 0.927
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0009",
+        "start": 131.3,
+        "end": 136.34,
+        "duration": 5.04,
+        "text": "魔女見習いが魔女になるためには他の魔女に弟子入りして",
+        "disc_prob": 0.9264
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0228",
+        "start": 806.54,
+        "end": 809.98,
+        "duration": 3.44,
+        "text": "飲んだことありませんだからここに来たのです",
+        "disc_prob": 0.9264
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0229",
+        "start": 534.33,
+        "end": 537.02,
+        "duration": 2.69,
+        "text": "ならちょうどよかったです",
+        "disc_prob": 0.926
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0207",
+        "start": 311.465,
+        "end": 313.395,
+        "duration": 1.93,
+        "text": "前からあったものに新しい要",
+        "disc_prob": 0.9255
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0213",
+        "start": 239.165,
+        "end": 240.6,
+        "duration": 1.435,
+        "text": "れ残りじゃないでしょうね",
+        "disc_prob": 0.9255
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0394",
+        "start": 1201.85,
+        "end": 1206.395,
+        "duration": 4.545,
+        "text": "して激",
+        "disc_prob": 0.9254
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0082",
+        "start": 15.13,
+        "end": 18.635,
+        "duration": 3.505,
+        "text": "今更ですが、このまま行くしかありません",
+        "disc_prob": 0.9253
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0212",
+        "start": 304.72,
+        "end": 306.315,
+        "duration": 1.595,
+        "text": "やっぱり嘘がつけない",
+        "disc_prob": 0.9253
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0132",
+        "start": 407.83,
+        "end": 411.825,
+        "duration": 3.995,
+        "text": "ならば窓の外を見てもらいたい窓の外",
+        "disc_prob": 0.925
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0043",
+        "start": 1357.075,
+        "end": 1358.165,
+        "duration": 1.09,
+        "text": "地味すぎじゃない",
+        "disc_prob": 0.9249
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0247",
+        "start": 537.615,
+        "end": 541.06,
+        "duration": 3.445,
+        "text": "壁を壊したのか教えていただけますか",
+        "disc_prob": 0.9246
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0015",
+        "start": 1034.51,
+        "end": 1039.5,
+        "duration": 4.99,
+        "text": "これは生まれて初めて言われた言葉でした",
+        "disc_prob": 0.9243
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0111",
+        "start": 808.78,
+        "end": 814.07,
+        "duration": 5.29,
+        "text": "なるほど反撃を封じるだけでも効果は十分期待できそうです",
+        "disc_prob": 0.9242
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0393",
+        "start": 1029.98,
+        "end": 1035.4,
+        "duration": 5.42,
+        "text": "私以外の可能性が",
+        "disc_prob": 0.9239
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0105",
+        "start": 13.86,
+        "end": 17.65,
+        "duration": 3.79,
+        "text": "それは身分違いの恋だったのです。",
+        "disc_prob": 0.9227
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0421",
+        "start": 1375.385,
+        "end": 1376.94,
+        "duration": 1.555,
+        "text": "きは周りを見た方がいい",
+        "disc_prob": 0.9226
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0245",
+        "start": 1053.3,
+        "end": 1055.495,
+        "duration": 2.195,
+        "text": "ウ踏みの乙女",
+        "disc_prob": 0.9222
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0100",
+        "start": 1004.135,
+        "end": 1006.82,
+        "duration": 2.685,
+        "text": "をエミルさんは知っているんですか?",
+        "disc_prob": 0.9218
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0016",
+        "start": 407.22,
+        "end": 412.52,
+        "duration": 5.3,
+        "text": "フラン先生は何日経っても全然修行をつけてはくれません",
+        "disc_prob": 0.9215
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0398",
+        "start": 1088.77,
+        "end": 1092.78,
+        "duration": 4.01,
+        "text": "あの国で私が10年前に遡った話を",
+        "disc_prob": 0.9211
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0116",
+        "start": 30.08,
+        "end": 35.14,
+        "duration": 5.06,
+        "text": "人は密かに愛を育みやがて彼女は見こもりました",
+        "disc_prob": 0.921
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0360",
+        "start": 17.56,
+        "end": 20.72,
+        "duration": 3.16,
+        "text": "私は魔女であり旅人です",
+        "disc_prob": 0.9204
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0038",
+        "start": 1423.965,
+        "end": 1424.855,
+        "duration": 0.89,
+        "text": "岳地帯を行",
+        "disc_prob": 0.9202
+      },
+      {
+        "source_id": "majo_ep05",
+        "blind_id": "AR0173",
+        "start": 1142.345,
+        "end": 1144.73,
+        "duration": 2.385,
+        "text": "ラン先生が好きなものでしょう",
+        "disc_prob": 0.9202
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0231",
+        "start": 554.86,
+        "end": 557.815,
+        "duration": 2.955,
+        "text": "最初のうちはそれでよかったそうです",
+        "disc_prob": 0.9201
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0025",
+        "start": 1287.025,
+        "end": 1288.56,
+        "duration": 1.535,
+        "text": "魔女になりました",
+        "disc_prob": 0.919
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0024",
+        "start": 86.0,
+        "end": 92.17,
+        "duration": 6.17,
+        "text": "平和国ロベッタにおいて史上最年少14",
+        "disc_prob": 0.9172
+      },
+      {
+        "source_id": "majo_ep09",
+        "blind_id": "AR0297",
+        "start": 126.86,
+        "end": 130.41,
+        "duration": 3.55,
+        "text": "魔女になるまで3年かかったということですか",
+        "disc_prob": 0.9166
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0225",
+        "start": 809.96,
+        "end": 815.47,
+        "duration": 5.51,
+        "text": "初めて飲むお酒ならとっても美味しいものを飲みたいと思いして",
+        "disc_prob": 0.9163
+      },
+      {
+        "source_id": "majo_ep11",
+        "blind_id": "AR0342",
+        "start": 1431.3,
+        "end": 1436.08,
+        "duration": 4.78,
+        "text": "私はこれからもただの灰の魔女で",
+        "disc_prob": 0.9161
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0200",
+        "start": 182.16,
+        "end": 186.115,
+        "duration": 3.955,
+        "text": "私は美しくありませんと言ってみましょう",
+        "disc_prob": 0.9157
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0121",
+        "start": 353.34,
+        "end": 357.765,
+        "duration": 4.425,
+        "text": "それは記憶喪失ですか",
+        "disc_prob": 0.9153
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0123",
+        "start": 2.86,
+        "end": 5.55,
+        "duration": 2.69,
+        "text": "これは恋のお話です。",
+        "disc_prob": 0.9153
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0149",
+        "start": 575.83,
+        "end": 577.95,
+        "duration": 2.12,
+        "text": "称賛はあるんですか",
+        "disc_prob": 0.9152
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0145",
+        "start": 799.78,
+        "end": 804.315,
+        "duration": 4.535,
+        "text": "ミラロゼさんの計画とはジャバリエを誘導して穴に落",
+        "disc_prob": 0.9145
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0237",
+        "start": 568.58,
+        "end": 571.375,
+        "duration": 2.795,
+        "text": "旅の恥は書き捨てと言います",
+        "disc_prob": 0.9145
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0018",
+        "start": 222.68,
+        "end": 228.42,
+        "duration": 5.74,
+        "text": "私はその星屑の魔女に会いに行きました",
+        "disc_prob": 0.9144
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0144",
+        "start": 478.365,
+        "end": 482.27,
+        "duration": 3.905,
+        "text": "だったら早くこの国を出て別の国に行ったほう",
+        "disc_prob": 0.9142
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0091",
+        "start": 1307.435,
+        "end": 1310.145,
+        "duration": 2.71,
+        "text": "と思ってしたことが正しいとは限らない",
+        "disc_prob": 0.9136
+      },
+      {
+        "source_id": "majo_ep03",
+        "blind_id": "AR0079",
+        "start": 1297.185,
+        "end": 1300.14,
+        "duration": 2.955,
+        "text": "かえって絶望させてしまったのです",
+        "disc_prob": 0.913
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0010",
+        "start": 16.53,
+        "end": 22.22,
+        "duration": 5.69,
+        "text": "魔女ニケが世界各地を旅した記録をつづったものです",
+        "disc_prob": 0.9127
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0187",
+        "start": 51.39,
+        "end": 54.895,
+        "duration": 3.505,
+        "text": "そうですね迷いますしまだ疑っています",
+        "disc_prob": 0.9127
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0129",
+        "start": 845.12,
+        "end": 847.93,
+        "duration": 2.81,
+        "text": "死なないでくださいね",
+        "disc_prob": 0.9119
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0236",
+        "start": 1169.765,
+        "end": 1172.13,
+        "duration": 2.365,
+        "text": "地偽装していたということですよね",
+        "disc_prob": 0.9118
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0369",
+        "start": 1022.44,
+        "end": 1026.03,
+        "duration": 3.59,
+        "text": "同時に選択の連続でもあります",
+        "disc_prob": 0.911
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0158",
+        "start": 395.0,
+        "end": 398.77,
+        "duration": 3.77,
+        "text": "り解説させていただく死にたくなければ嫁",
+        "disc_prob": 0.9106
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0252",
+        "start": 1091.945,
+        "end": 1097.39,
+        "duration": 5.445,
+        "text": "構ふみふみしたと思いますがどれくらいのぶどう酒が作れるんですか",
+        "disc_prob": 0.9105
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0051",
+        "start": 1284.8,
+        "end": 1290.19,
+        "duration": 5.39,
+        "text": "あれから6ヶ月が経ちました",
+        "disc_prob": 0.91
+      },
+      {
+        "source_id": "majo_ep09",
+        "blind_id": "AR0300",
+        "start": 120.86,
+        "end": 125.12,
+        "duration": 4.26,
+        "text": "魔女見習いになったのはいくつの時ですか?",
+        "disc_prob": 0.9099
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0114",
+        "start": 9.57,
+        "end": 13.88,
+        "duration": 4.31,
+        "text": "王女が恋をしたのはお城の料理人でした。",
+        "disc_prob": 0.9098
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0102",
+        "start": 719.635,
+        "end": 724.505,
+        "duration": 4.87,
+        "text": "止めてもらって朝ごはんもいただいたんですから準備くらい手伝います",
+        "disc_prob": 0.9097
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0053",
+        "start": 17.115,
+        "end": 19.85,
+        "duration": 2.735,
+        "text": "在とされている魔女に分けられます",
+        "disc_prob": 0.9095
+      },
+      {
+        "source_id": "majo_ep05",
+        "blind_id": "AR0185",
+        "start": 1050.185,
+        "end": 1051.15,
+        "duration": 0.965,
+        "text": "もらっているんでしょう",
+        "disc_prob": 0.9095
+      },
+      {
+        "source_id": "majo_ep05",
+        "blind_id": "AR0166",
+        "start": 25.395,
+        "end": 30.61,
+        "duration": 5.215,
+        "text": "ラン先生と名前が同じってだけじゃなくてなんか顔も似ている気がします",
+        "disc_prob": 0.9094
+      },
+      {
+        "source_id": "majo_ep09",
+        "blind_id": "AR0323",
+        "start": 537.545,
+        "end": 538.94,
+        "duration": 1.395,
+        "text": "汗も出てます",
+        "disc_prob": 0.9089
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0138",
+        "start": 1346.38,
+        "end": 1352.03,
+        "duration": 5.65,
+        "text": "民なき国の王女となった彼女自身の手によって",
+        "disc_prob": 0.9087
+      },
+      {
+        "source_id": "majo_ep11",
+        "blind_id": "AR0341",
+        "start": 1304.07,
+        "end": 1305.91,
+        "duration": 1.84,
+        "text": "何がですか",
+        "disc_prob": 0.9081
+      },
+      {
+        "source_id": "majo_ep11",
+        "blind_id": "AR0345",
+        "start": 1299.935,
+        "end": 1301.49,
+        "duration": 1.555,
+        "text": "何でしょう",
+        "disc_prob": 0.9072
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0050",
+        "start": 375.525,
+        "end": 377.0,
+        "duration": 1.475,
+        "text": "から重すぎませんか",
+        "disc_prob": 0.9062
+      },
+      {
+        "source_id": "majo_ep02",
+        "blind_id": "AR0077",
+        "start": 181.205,
+        "end": 183.675,
+        "duration": 2.47,
+        "text": "はこの国を訪れるのを楽しみにして",
+        "disc_prob": 0.9062
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0131",
+        "start": 893.08,
+        "end": 896.07,
+        "duration": 2.99,
+        "text": "思議なものです昨日会ったばか",
+        "disc_prob": 0.9061
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0363",
+        "start": 1078.585,
+        "end": 1081.43,
+        "duration": 2.845,
+        "text": "勝手です自分勝手と言いました?",
+        "disc_prob": 0.9059
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0047",
+        "start": 1185.865,
+        "end": 1186.755,
+        "duration": 0.89,
+        "text": "すぎませんか",
+        "disc_prob": 0.9057
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0106",
+        "start": 379.19,
+        "end": 383.81,
+        "duration": 4.62,
+        "text": "お城のこんな部屋に住んでいるんですからまあそうです",
+        "disc_prob": 0.9049
+      },
+      {
+        "source_id": "majo_ep07",
+        "blind_id": "AR0244",
+        "start": 590.2,
+        "end": 595.15,
+        "duration": 4.95,
+        "text": "気がつけば人々は反対側に住む人たちへの行き",
+        "disc_prob": 0.9045
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0412",
+        "start": 627.665,
+        "end": 628.67,
+        "duration": 1.005,
+        "text": "ーダーかどうか",
+        "disc_prob": 0.9045
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0419",
+        "start": 1129.515,
+        "end": 1131.17,
+        "duration": 1.655,
+        "text": "ことを思いつきました",
+        "disc_prob": 0.9043
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0115",
+        "start": 739.19,
+        "end": 742.54,
+        "duration": 3.35,
+        "text": "まあ手紙の信憑性も疑わしいです",
+        "disc_prob": 0.9042
+      },
+      {
+        "source_id": "majo_ep09",
+        "blind_id": "AR0329",
+        "start": 865.155,
+        "end": 871.39,
+        "duration": 6.235,
+        "text": "で黒いフードの強盗がやってくる",
+        "disc_prob": 0.9032
+      },
+      {
+        "source_id": "majo_ep08",
+        "blind_id": "AR0264",
+        "start": 8.43,
+        "end": 13.81,
+        "duration": 5.38,
+        "text": "灰色の髪を風になびかせほうきで空を飛んでいる魔女がいます",
+        "disc_prob": 0.9027
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0030",
+        "start": 188.45,
+        "end": 191.67,
+        "duration": 3.22,
+        "text": "国の魔女たちは面白く思わなかったようで",
+        "disc_prob": 0.902
+      },
+      {
+        "source_id": "majo_ep06",
+        "blind_id": "AR0198",
+        "start": 887.945,
+        "end": 890.16,
+        "duration": 2.215,
+        "text": "ありませんから書くことができます",
+        "disc_prob": 0.902
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0388",
+        "start": 502.03,
+        "end": 505.15,
+        "duration": 3.12,
+        "text": "ということでどうしたらいいと思います",
+        "disc_prob": 0.902
+      },
+      {
+        "source_id": "majo_ep09",
+        "blind_id": "AR0313",
+        "start": 423.64,
+        "end": 429.83,
+        "duration": 6.19,
+        "text": "ええそうですね例えば声や記憶を",
+        "disc_prob": 0.9019
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0353",
+        "start": 1092.76,
+        "end": 1096.72,
+        "duration": 3.96,
+        "text": "そのために私は来たんですよ",
+        "disc_prob": 0.9015
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0151",
+        "start": 580.195,
+        "end": 582.26,
+        "duration": 2.065,
+        "text": "信満々ですね",
+        "disc_prob": 0.9011
+      },
+      {
+        "source_id": "majo_ep12",
+        "blind_id": "AR0426",
+        "start": 485.13,
+        "end": 489.81,
+        "duration": 4.68,
+        "text": "もしも死んでしまったら何が起こるか想像できますか",
+        "disc_prob": 0.9011
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0147",
+        "start": 340.84,
+        "end": 342.88,
+        "duration": 2.04,
+        "text": "わからないと",
+        "disc_prob": 0.9005
+      },
+      {
+        "source_id": "majo_ep01",
+        "blind_id": "AR0020",
+        "start": 1094.7,
+        "end": 1098.12,
+        "duration": 3.42,
+        "text": "先生との修行の日々",
+        "disc_prob": 0.9002
+      },
+      {
+        "source_id": "majo_ep04",
+        "blind_id": "AR0137",
+        "start": 17.63,
+        "end": 19.085,
+        "duration": 1.455,
+        "text": "どうでもいいです",
+        "disc_prob": 0.8997
+      }
+    ],
+    "counts_by_bucket": {
+      "p>=0.9": 199,
+      "0.7<=p<0.9": 206,
+      "0.5<=p<0.7": 23,
+      "0.3<=p<0.5": 2,
+      "p<0.3": 1
+    }
+  },
+  "radio_review_448": {
+    "pool_size": 448,
+    "scored": [
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0162",
+        "start": 494.16,
+        "end": 495.315,
+        "duration": 1.155,
+        "text": "不安大",
+        "disc_prob": 0.9756
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0234",
+        "start": 105.145,
+        "end": 106.49,
+        "duration": 1.345,
+        "text": "もそも彼女が扱",
+        "disc_prob": 0.9748
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0157",
+        "start": 457.525,
+        "end": 460.35,
+        "duration": 2.825,
+        "text": "これ本当に大丈夫なんですか",
+        "disc_prob": 0.9738
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0219",
+        "start": 1860.4,
+        "end": 1861.92,
+        "duration": 1.52,
+        "text": "どこかで会えた",
+        "disc_prob": 0.9726
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0269",
+        "start": 1561.195,
+        "end": 1562.885,
+        "duration": 1.69,
+        "text": "誘しているものかと思っていました",
+        "disc_prob": 0.9681
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0176",
+        "start": 972.765,
+        "end": 975.01,
+        "duration": 2.245,
+        "text": "気のせいじゃないですか",
+        "disc_prob": 0.9673
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0228",
+        "start": 32.665,
+        "end": 34.5,
+        "duration": 1.835,
+        "text": "はさらりと伸び",
+        "disc_prob": 0.9672
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0230",
+        "start": 58.96,
+        "end": 60.6,
+        "duration": 1.64,
+        "text": "しかし人々",
+        "disc_prob": 0.9669
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0220",
+        "start": 1865.275,
+        "end": 1867.51,
+        "duration": 2.235,
+        "text": "告でもできたらなと",
+        "disc_prob": 0.9652
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0245",
+        "start": 268.76,
+        "end": 273.05,
+        "duration": 4.29,
+        "text": "黒の三角帽子に身を包んだ彼女は",
+        "disc_prob": 0.9621
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0264",
+        "start": 1480.465,
+        "end": 1482.14,
+        "duration": 1.675,
+        "text": "持て余していました",
+        "disc_prob": 0.9621
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0001",
+        "start": 2.01,
+        "end": 3.455,
+        "duration": 1.445,
+        "text": "魔女の旅旅",
+        "disc_prob": 0.96
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0143",
+        "start": 48.445,
+        "end": 50.8,
+        "duration": 2.355,
+        "text": "は一切ないと今朝言ったはずなんです",
+        "disc_prob": 0.9586
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0198",
+        "start": 1463.105,
+        "end": 1464.85,
+        "duration": 1.745,
+        "text": "と赴きました",
+        "disc_prob": 0.9585
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0169",
+        "start": 804.685,
+        "end": 806.28,
+        "duration": 1.595,
+        "text": "っていいなら今",
+        "disc_prob": 0.9584
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0026",
+        "start": 422.04,
+        "end": 423.67,
+        "duration": 1.63,
+        "text": "どんな特徴ですか",
+        "disc_prob": 0.9575
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0161",
+        "start": 493.345,
+        "end": 494.37,
+        "duration": 1.025,
+        "text": "しか思えないです",
+        "disc_prob": 0.9549
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0272",
+        "start": 23.5,
+        "end": 26.69,
+        "duration": 3.19,
+        "text": "る日のことです",
+        "disc_prob": 0.9541
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0185",
+        "start": 1186.82,
+        "end": 1188.34,
+        "duration": 1.52,
+        "text": "そのようですね",
+        "disc_prob": 0.9538
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0256",
+        "start": 1213.145,
+        "end": 1214.26,
+        "duration": 1.115,
+        "text": "きいので嘘",
+        "disc_prob": 0.9516
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0187",
+        "start": 1219.835,
+        "end": 1220.925,
+        "duration": 1.09,
+        "text": "りそうなんですね",
+        "disc_prob": 0.9501
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0208",
+        "start": 1636.685,
+        "end": 1639.25,
+        "duration": 2.565,
+        "text": "レストランで雑談に花を咲か",
+        "disc_prob": 0.9501
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0221",
+        "start": 1867.49,
+        "end": 1869.785,
+        "duration": 2.295,
+        "text": "なんとなく思えてしまうくらいには",
+        "disc_prob": 0.9495
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0246",
+        "start": 284.915,
+        "end": 287.485,
+        "duration": 2.57,
+        "text": "もろくに見もせずマッチを手渡",
+        "disc_prob": 0.9461
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0015",
+        "start": 254.485,
+        "end": 255.71,
+        "duration": 1.225,
+        "text": "はあまり言ってません",
+        "disc_prob": 0.9458
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0075",
+        "start": 25.41,
+        "end": 27.07,
+        "duration": 1.66,
+        "text": "ご存知ですか",
+        "disc_prob": 0.9452
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0177",
+        "start": 983.265,
+        "end": 984.455,
+        "duration": 1.19,
+        "text": "それは",
+        "disc_prob": 0.9449
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0095",
+        "start": 306.415,
+        "end": 307.885,
+        "duration": 1.47,
+        "text": "やそっとなことで怒ら",
+        "disc_prob": 0.9446
+      },
+      {
+        "source_id": "28243657968-1-192",
+        "blind_id": "V2R0364",
+        "start": 1256.835,
+        "end": 1258.14,
+        "duration": 1.305,
+        "text": "が続いていく",
+        "disc_prob": 0.9446
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0179",
+        "start": 1009.045,
+        "end": 1010.9,
+        "duration": 1.855,
+        "text": "死んだことにされてますよ",
+        "disc_prob": 0.9443
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0229",
+        "start": 43.165,
+        "end": 44.51,
+        "duration": 1.345,
+        "text": "チ売りの少女でした",
+        "disc_prob": 0.9429
+      },
+      {
+        "source_id": "1405440540-1-192",
+        "blind_id": "V2R0121",
+        "start": 232.985,
+        "end": 234.235,
+        "duration": 1.25,
+        "text": "以前にちょっと",
+        "disc_prob": 0.9403
+      },
+      {
+        "source_id": "37239655783-1-192",
+        "blind_id": "V2R0399",
+        "start": 81.425,
+        "end": 82.475,
+        "duration": 1.05,
+        "text": "ってまいりました",
+        "disc_prob": 0.9384
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0159",
+        "start": 473.1,
+        "end": 474.795,
+        "duration": 1.695,
+        "text": "チケットを持って会場に行",
+        "disc_prob": 0.9376
+      },
+      {
+        "source_id": "1405440540-1-192",
+        "blind_id": "V2R0133",
+        "start": 479.965,
+        "end": 480.87,
+        "duration": 0.905,
+        "text": "から禁煙してみ",
+        "disc_prob": 0.9371
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0244",
+        "start": 244.075,
+        "end": 246.71,
+        "duration": 2.635,
+        "text": "悪くも注目を集めるものであり",
+        "disc_prob": 0.937
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0225",
+        "start": 1880.745,
+        "end": 1881.92,
+        "duration": 1.175,
+        "text": "りない気持ちです",
+        "disc_prob": 0.9361
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0004",
+        "start": 40.865,
+        "end": 44.71,
+        "duration": 3.845,
+        "text": "でぶらりと小銭稼ぎをしながら旅をしておられるそうです",
+        "disc_prob": 0.9356
+      },
+      {
+        "source_id": "306672160-1-192",
+        "blind_id": "V2R0368",
+        "start": 30.54,
+        "end": 36.28,
+        "duration": 5.74,
+        "text": "をお見せしましょう",
+        "disc_prob": 0.9348
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0223",
+        "start": 1874.985,
+        "end": 1877.67,
+        "duration": 2.685,
+        "text": "ばかりつく私ではありますけれど",
+        "disc_prob": 0.9347
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0182",
+        "start": 1121.175,
+        "end": 1122.17,
+        "duration": 0.995,
+        "text": "嘘つくのもやめて",
+        "disc_prob": 0.9345
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0148",
+        "start": 132.87,
+        "end": 135.255,
+        "duration": 2.385,
+        "text": "ダメですか",
+        "disc_prob": 0.9337
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0242",
+        "start": 226.205,
+        "end": 227.85,
+        "duration": 1.645,
+        "text": "る金儲けに",
+        "disc_prob": 0.9337
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0005",
+        "start": 75.42,
+        "end": 79.32,
+        "duration": 3.9,
+        "text": "辛さを足すべく視線を漂わせた私",
+        "disc_prob": 0.9334
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0285",
+        "start": 218.275,
+        "end": 219.605,
+        "duration": 1.33,
+        "text": "接にインパクトいります",
+        "disc_prob": 0.9334
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0299",
+        "start": 391.115,
+        "end": 392.125,
+        "duration": 1.01,
+        "text": "もちろんです",
+        "disc_prob": 0.9327
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0011",
+        "start": 232.06,
+        "end": 234.81,
+        "duration": 2.75,
+        "text": "そうなんですか",
+        "disc_prob": 0.9323
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0251",
+        "start": 920.505,
+        "end": 921.71,
+        "duration": 1.205,
+        "text": "そこまで言ってないんです",
+        "disc_prob": 0.9305
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0010",
+        "start": 211.845,
+        "end": 212.72,
+        "duration": 0.875,
+        "text": "よ先生",
+        "disc_prob": 0.9302
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0152",
+        "start": 389.665,
+        "end": 392.67,
+        "duration": 3.005,
+        "text": "ら読書と天秤にかけて渋ったりはしません",
+        "disc_prob": 0.9296
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0165",
+        "start": 772.6,
+        "end": 774.775,
+        "duration": 2.175,
+        "text": "宿屋に戻って本を読む",
+        "disc_prob": 0.9296
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0243",
+        "start": 235.885,
+        "end": 237.55,
+        "duration": 1.665,
+        "text": "ことですらありました",
+        "disc_prob": 0.9289
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0255",
+        "start": 1177.795,
+        "end": 1179.045,
+        "duration": 1.25,
+        "text": "人間ですねこの師",
+        "disc_prob": 0.9272
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0257",
+        "start": 1269.165,
+        "end": 1271.77,
+        "duration": 2.605,
+        "text": "弟子らしいところなんて",
+        "disc_prob": 0.9268
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0168",
+        "start": 788.605,
+        "end": 789.76,
+        "duration": 1.155,
+        "text": "ないような気がするんです",
+        "disc_prob": 0.9263
+      },
+      {
+        "source_id": "306672160-1-192",
+        "blind_id": "V2R0370",
+        "start": 138.31,
+        "end": 139.86,
+        "duration": 1.55,
+        "text": "私は猫である",
+        "disc_prob": 0.9245
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0003",
+        "start": 36.52,
+        "end": 40.93,
+        "duration": 4.41,
+        "text": "先生は相変わらずで聞けば今は一人",
+        "disc_prob": 0.9232
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0192",
+        "start": 1304.545,
+        "end": 1307.155,
+        "duration": 2.61,
+        "text": "法使い対ただの剣士の血",
+        "disc_prob": 0.9231
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0014",
+        "start": 238.405,
+        "end": 239.335,
+        "duration": 0.93,
+        "text": "な魔女って",
+        "disc_prob": 0.9227
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0191",
+        "start": 1279.345,
+        "end": 1281.64,
+        "duration": 2.295,
+        "text": "ような流れにできると大思いですか",
+        "disc_prob": 0.9224
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0211",
+        "start": 1727.775,
+        "end": 1729.2,
+        "duration": 1.425,
+        "text": "で湧いて出てきたお金です",
+        "disc_prob": 0.9219
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0028",
+        "start": 459.315,
+        "end": 462.07,
+        "duration": 2.755,
+        "text": "はちらりと時計に目をやりました",
+        "disc_prob": 0.9204
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0284",
+        "start": 189.365,
+        "end": 194.59,
+        "duration": 5.225,
+        "text": "触れない方が良さそうですね",
+        "disc_prob": 0.9195
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0316",
+        "start": 555.28,
+        "end": 556.835,
+        "duration": 1.555,
+        "text": "私の志望動機はパ",
+        "disc_prob": 0.919
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0240",
+        "start": 189.455,
+        "end": 190.91,
+        "duration": 1.455,
+        "text": "できるほどにまでなりました",
+        "disc_prob": 0.9186
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0237",
+        "start": 135.105,
+        "end": 136.235,
+        "duration": 1.13,
+        "text": "見になっているのも",
+        "disc_prob": 0.9183
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0029",
+        "start": 478.015,
+        "end": 481.38,
+        "duration": 3.365,
+        "text": "素直になる薬とやらを偶然うっか",
+        "disc_prob": 0.918
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0183",
+        "start": 1163.735,
+        "end": 1164.785,
+        "duration": 1.05,
+        "text": "イエ",
+        "disc_prob": 0.9176
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0195",
+        "start": 1410.325,
+        "end": 1411.375,
+        "duration": 1.05,
+        "text": "夜に持っていた",
+        "disc_prob": 0.9173
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0253",
+        "start": 1065.87,
+        "end": 1067.98,
+        "duration": 2.11,
+        "text": "別人じゃないですか",
+        "disc_prob": 0.9172
+      },
+      {
+        "source_id": "1405440540-1-192",
+        "blind_id": "V2R0112",
+        "start": 17.905,
+        "end": 19.955,
+        "duration": 2.05,
+        "text": "の中にはまだまだ悩",
+        "disc_prob": 0.9165
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0217",
+        "start": 1825.425,
+        "end": 1828.295,
+        "duration": 2.87,
+        "text": "ムネシアさんとアビリアさんには内緒ですよ",
+        "disc_prob": 0.9163
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0155",
+        "start": 410.425,
+        "end": 413.89,
+        "duration": 3.465,
+        "text": "らここでこうして並んで歩いたりしてませんよね",
+        "disc_prob": 0.9156
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0046",
+        "start": 649.75,
+        "end": 651.54,
+        "duration": 1.79,
+        "text": "誰ですかこれ",
+        "disc_prob": 0.9154
+      },
+      {
+        "source_id": "306672160-1-192",
+        "blind_id": "V2R0373",
+        "start": 195.34,
+        "end": 201.415,
+        "duration": 6.075,
+        "text": "こうして私は日々小銭を稼いで旅の資金",
+        "disc_prob": 0.9153
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0002",
+        "start": 14.155,
+        "end": 19.53,
+        "duration": 5.375,
+        "text": "しい薬と素直なイレイナさん",
+        "disc_prob": 0.9151
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0206",
+        "start": 1621.77,
+        "end": 1623.06,
+        "duration": 1.29,
+        "text": "ザレ事が聞こえた",
+        "disc_prob": 0.9151
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0087",
+        "start": 236.965,
+        "end": 240.095,
+        "duration": 3.13,
+        "text": "名希望さんは赤ちゃん向けの絵本をご所望でした",
+        "disc_prob": 0.9142
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0082",
+        "start": 185.085,
+        "end": 187.09,
+        "duration": 2.005,
+        "text": "時はどうやって克服したんです",
+        "disc_prob": 0.914
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0022",
+        "start": 350.31,
+        "end": 353.55,
+        "duration": 3.24,
+        "text": "猫嫌いの体質を治す薬です",
+        "disc_prob": 0.9137
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0074",
+        "start": 21.445,
+        "end": 23.94,
+        "duration": 2.495,
+        "text": "魔女の称号が一体何のため",
+        "disc_prob": 0.9126
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0261",
+        "start": 1470.535,
+        "end": 1472.58,
+        "duration": 2.045,
+        "text": "歩いていました。",
+        "disc_prob": 0.9124
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0197",
+        "start": 1445.365,
+        "end": 1447.8,
+        "duration": 2.435,
+        "text": "行くのは多分無理でしょうけれど",
+        "disc_prob": 0.9098
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0314",
+        "start": 550.66,
+        "end": 551.695,
+        "duration": 1.035,
+        "text": "けど自覚",
+        "disc_prob": 0.9073
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0278",
+        "start": 125.73,
+        "end": 127.81,
+        "duration": 2.08,
+        "text": "そんなに教えてきたんですか",
+        "disc_prob": 0.9071
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0194",
+        "start": 1396.925,
+        "end": 1397.99,
+        "duration": 1.065,
+        "text": "のことなんです",
+        "disc_prob": 0.9068
+      },
+      {
+        "source_id": "1405440540-1-192",
+        "blind_id": "V2R0114",
+        "start": 47.135,
+        "end": 49.08,
+        "duration": 1.945,
+        "text": "っと毎日眠れず苦",
+        "disc_prob": 0.9067
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0042",
+        "start": 609.415,
+        "end": 612.22,
+        "duration": 2.805,
+        "text": "普段どんな料理を好んで食べてるんですか",
+        "disc_prob": 0.9049
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0167",
+        "start": 786.985,
+        "end": 788.42,
+        "duration": 1.435,
+        "text": "ケーションが全く成り立",
+        "disc_prob": 0.9041
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0032",
+        "start": 526.825,
+        "end": 527.895,
+        "duration": 1.07,
+        "text": "効果が出てきている",
+        "disc_prob": 0.9037
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0216",
+        "start": 1821.985,
+        "end": 1824.48,
+        "duration": 2.495,
+        "text": "からチケットを売ったりなんてしてないんですよ",
+        "disc_prob": 0.9031
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0305",
+        "start": 449.44,
+        "end": 451.1,
+        "duration": 1.66,
+        "text": "やっぱりお亡くなり",
+        "disc_prob": 0.9031
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0247",
+        "start": 357.725,
+        "end": 358.975,
+        "duration": 1.25,
+        "text": "手を染めていた悪",
+        "disc_prob": 0.9027
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0235",
+        "start": 107.225,
+        "end": 109.96,
+        "duration": 2.735,
+        "text": "ただのマッチではありませんでした",
+        "disc_prob": 0.9026
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0289",
+        "start": 288.31,
+        "end": 294.205,
+        "duration": 5.895,
+        "text": "ところでこれでは顔以外に取り柄がない人間だと思われか",
+        "disc_prob": 0.9014
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0231",
+        "start": 65.505,
+        "end": 67.115,
+        "duration": 1.61,
+        "text": "可愛くても興",
+        "disc_prob": 0.9013
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0073",
+        "start": 6.9,
+        "end": 9.03,
+        "duration": 2.13,
+        "text": "魔女たちの小話",
+        "disc_prob": 0.9012
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0203",
+        "start": 1555.685,
+        "end": 1556.93,
+        "duration": 1.245,
+        "text": "けじゃありませんから",
+        "disc_prob": 0.901
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0241",
+        "start": 208.405,
+        "end": 209.46,
+        "duration": 1.055,
+        "text": "マッチを渡して",
+        "disc_prob": 0.901
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0199",
+        "start": 1521.03,
+        "end": 1522.475,
+        "duration": 1.445,
+        "text": "私はもう決まりました",
+        "disc_prob": 0.9009
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0270",
+        "start": 1649.285,
+        "end": 1651.235,
+        "duration": 1.95,
+        "text": "をそらさないでいただきたいです",
+        "disc_prob": 0.9006
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0236",
+        "start": 127.825,
+        "end": 129.495,
+        "duration": 1.67,
+        "text": "困った末再",
+        "disc_prob": 0.9004
+      },
+      {
+        "source_id": "37239655783-1-192",
+        "blind_id": "V2R0421",
+        "start": 1037.795,
+        "end": 1038.765,
+        "duration": 0.97,
+        "text": "まるでサヤ",
+        "disc_prob": 0.8996
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0164",
+        "start": 510.495,
+        "end": 513.625,
+        "duration": 3.13,
+        "text": "くならもっと別のものがいいのではと言ってるだけです",
+        "disc_prob": 0.898
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0209",
+        "start": 1664.305,
+        "end": 1665.295,
+        "duration": 0.99,
+        "text": "費削減のため",
+        "disc_prob": 0.8971
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0288",
+        "start": 276.13,
+        "end": 278.08,
+        "duration": 1.95,
+        "text": "まりこの場合の最適解",
+        "disc_prob": 0.8971
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0249",
+        "start": 792.535,
+        "end": 794.08,
+        "duration": 1.545,
+        "text": "ってないんですか",
+        "disc_prob": 0.8969
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0158",
+        "start": 461.005,
+        "end": 464.42,
+        "duration": 3.415,
+        "text": "く見たら呪いの舞台チケットって書いてあります",
+        "disc_prob": 0.8967
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0156",
+        "start": 453.3,
+        "end": 456.82,
+        "duration": 3.52,
+        "text": "要するにやっぱりゴミじゃないですか",
+        "disc_prob": 0.8959
+      },
+      {
+        "source_id": "28055832533-1-192",
+        "blind_id": "V2R0336",
+        "start": 373.395,
+        "end": 374.485,
+        "duration": 1.09,
+        "text": "んと今更ですね",
+        "disc_prob": 0.8959
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0170",
+        "start": 821.265,
+        "end": 822.175,
+        "duration": 0.91,
+        "text": "に照れてません",
+        "disc_prob": 0.8953
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0263",
+        "start": 1478.485,
+        "end": 1480.315,
+        "duration": 1.83,
+        "text": "外見に戻り暇",
+        "disc_prob": 0.8953
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0218",
+        "start": 1846.95,
+        "end": 1852.6,
+        "duration": 5.65,
+        "text": "やかでやかましいだけのように思えた時間も後になって振り返ってみれば",
+        "disc_prob": 0.8938
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0188",
+        "start": 1222.6,
+        "end": 1224.62,
+        "duration": 2.02,
+        "text": "なんか変なチケットです",
+        "disc_prob": 0.8932
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0290",
+        "start": 294.1,
+        "end": 295.24,
+        "duration": 1.14,
+        "text": "ねない気がするんです",
+        "disc_prob": 0.8914
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0193",
+        "start": 1343.505,
+        "end": 1344.4,
+        "duration": 0.895,
+        "text": "そういう意味じゃなく",
+        "disc_prob": 0.8909
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0013",
+        "start": 236.685,
+        "end": 237.695,
+        "duration": 1.01,
+        "text": "かその",
+        "disc_prob": 0.8906
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0009",
+        "start": 207.245,
+        "end": 211.91,
+        "duration": 4.665,
+        "text": "と一緒に暮らしたいのであれば辛口に耐性をつけていただかないと困ります",
+        "disc_prob": 0.8902
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0277",
+        "start": 119.465,
+        "end": 123.67,
+        "duration": 4.205,
+        "text": "なるほどところで生徒の面接練習を受けたのは今までど",
+        "disc_prob": 0.889
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0180",
+        "start": 1070.365,
+        "end": 1071.655,
+        "duration": 1.29,
+        "text": "してないんですけどじゃあ",
+        "disc_prob": 0.8857
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0027",
+        "start": 432.655,
+        "end": 435.02,
+        "duration": 2.365,
+        "text": "にそのお薬は飲んだらどうなるんです",
+        "disc_prob": 0.8856
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0030",
+        "start": 481.08,
+        "end": 486.0,
+        "duration": 4.92,
+        "text": "り口にしてしまったおバカにも程がある魔女が世の中にはいるようなのです",
+        "disc_prob": 0.8849
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0258",
+        "start": 1300.335,
+        "end": 1301.47,
+        "duration": 1.135,
+        "text": "セリフが吐けました",
+        "disc_prob": 0.8821
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0033",
+        "start": 531.21,
+        "end": 535.535,
+        "duration": 4.325,
+        "text": "素直に受け答えできないように話をそらしまくってごまかしてしまいましょう",
+        "disc_prob": 0.8819
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0213",
+        "start": 1744.105,
+        "end": 1745.375,
+        "duration": 1.27,
+        "text": "よ忘れ物ですか",
+        "disc_prob": 0.8814
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0239",
+        "start": 179.035,
+        "end": 179.925,
+        "duration": 0.89,
+        "text": "なマッチを売",
+        "disc_prob": 0.8795
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0163",
+        "start": 499.78,
+        "end": 501.6,
+        "duration": 1.82,
+        "text": "に危ないものですよねこれ",
+        "disc_prob": 0.8785
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0190",
+        "start": 1273.865,
+        "end": 1275.32,
+        "duration": 1.455,
+        "text": "くいきそうにないですよ",
+        "disc_prob": 0.8781
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0227",
+        "start": 22.065,
+        "end": 25.45,
+        "duration": 3.385,
+        "text": "女と呼ぶにはあまりにも幼く年齢",
+        "disc_prob": 0.8776
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0184",
+        "start": 1166.975,
+        "end": 1169.51,
+        "duration": 2.535,
+        "text": "イ",
+        "disc_prob": 0.8771
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0145",
+        "start": 74.905,
+        "end": 76.055,
+        "duration": 1.15,
+        "text": "すら持ち合わせてい",
+        "disc_prob": 0.8752
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0297",
+        "start": 381.27,
+        "end": 382.68,
+        "duration": 1.41,
+        "text": "ちょろいですね",
+        "disc_prob": 0.8749
+      },
+      {
+        "source_id": "28243657968-1-192",
+        "blind_id": "V2R0362",
+        "start": 1021.57,
+        "end": 1025.125,
+        "duration": 3.555,
+        "text": "シーラさんのローブ",
+        "disc_prob": 0.8747
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0238",
+        "start": 151.085,
+        "end": 153.035,
+        "duration": 1.95,
+        "text": "まり興味を持ってくれました",
+        "disc_prob": 0.8739
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0189",
+        "start": 1248.205,
+        "end": 1249.57,
+        "duration": 1.365,
+        "text": "損しましたねこれは",
+        "disc_prob": 0.8735
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0144",
+        "start": 62.92,
+        "end": 65.995,
+        "duration": 3.075,
+        "text": "なるほどさてはお話聞いてませんでした",
+        "disc_prob": 0.8734
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0196",
+        "start": 1440.105,
+        "end": 1441.71,
+        "duration": 1.605,
+        "text": "なくなりましたよね",
+        "disc_prob": 0.8731
+      },
+      {
+        "source_id": "37239655783-1-192",
+        "blind_id": "V2R0404",
+        "start": 408.99,
+        "end": 411.005,
+        "duration": 2.015,
+        "text": "そう見えます",
+        "disc_prob": 0.872
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0173",
+        "start": 842.485,
+        "end": 845.81,
+        "duration": 3.325,
+        "text": "ですかその限定的すぎる呪いまあいいです",
+        "disc_prob": 0.8712
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0146",
+        "start": 104.445,
+        "end": 106.53,
+        "duration": 2.085,
+        "text": "はいいんですけど",
+        "disc_prob": 0.8697
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0077",
+        "start": 65.765,
+        "end": 67.66,
+        "duration": 1.895,
+        "text": "無料の文字が見えない",
+        "disc_prob": 0.8694
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0274",
+        "start": 58.31,
+        "end": 64.23,
+        "duration": 5.92,
+        "text": "そろそろ私もこの国で日銭を稼ぐ手立てくらいは用意した方が良いのではないか",
+        "disc_prob": 0.8693
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0025",
+        "start": 407.065,
+        "end": 409.55,
+        "duration": 2.485,
+        "text": "かあれだけ大口を叩いてた",
+        "disc_prob": 0.869
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0226",
+        "start": 6.215,
+        "end": 8.09,
+        "duration": 1.875,
+        "text": "付き限定特装版",
+        "disc_prob": 0.8689
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0084",
+        "start": 204.065,
+        "end": 205.655,
+        "duration": 1.59,
+        "text": "希望さんが同じようなこと",
+        "disc_prob": 0.8667
+      },
+      {
+        "source_id": "28055832533-1-192",
+        "blind_id": "V2R0333",
+        "start": 279.625,
+        "end": 280.9,
+        "duration": 1.275,
+        "text": "このクイズ意味",
+        "disc_prob": 0.8648
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0233",
+        "start": 93.875,
+        "end": 97.26,
+        "duration": 3.385,
+        "text": "穏やかではありません",
+        "disc_prob": 0.8645
+      },
+      {
+        "source_id": "306672160-1-192",
+        "blind_id": "V2R0372",
+        "start": 166.32,
+        "end": 167.52,
+        "duration": 1.2,
+        "text": "ことないですよ",
+        "disc_prob": 0.8644
+      },
+      {
+        "source_id": "28055832533-1-192",
+        "blind_id": "V2R0343",
+        "start": 669.195,
+        "end": 670.2,
+        "duration": 1.005,
+        "text": "んと何してるんです",
+        "disc_prob": 0.8642
+      },
+      {
+        "source_id": "37239655783-1-192",
+        "blind_id": "V2R0422",
+        "start": 1261.055,
+        "end": 1263.56,
+        "duration": 2.505,
+        "text": "なんで私の方を見るんですか",
+        "disc_prob": 0.8635
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0007",
+        "start": 123.805,
+        "end": 127.495,
+        "duration": 3.69,
+        "text": "は言っても先生が帰ってくれば私",
+        "disc_prob": 0.862
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0072",
+        "start": 1.34,
+        "end": 3.19,
+        "duration": 1.85,
+        "text": "魔女のたびたび",
+        "disc_prob": 0.862
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0031",
+        "start": 487.04,
+        "end": 492.46,
+        "duration": 5.42,
+        "text": "それは一体誰でしょう",
+        "disc_prob": 0.8617
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0232",
+        "start": 70.55,
+        "end": 73.735,
+        "duration": 3.185,
+        "text": "ゆえに彼女の可愛らしい顔",
+        "disc_prob": 0.8607
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0088",
+        "start": 247.98,
+        "end": 250.775,
+        "duration": 2.795,
+        "text": "のお便りでは同じようなミスはしないでください",
+        "disc_prob": 0.86
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0079",
+        "start": 114.93,
+        "end": 117.185,
+        "duration": 2.255,
+        "text": "相談無料で当初",
+        "disc_prob": 0.8596
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0186",
+        "start": 1202.26,
+        "end": 1206.55,
+        "duration": 4.29,
+        "text": "最後にろくでもない願望が漏れ聞こえた気がしますが聞き逃しましょう",
+        "disc_prob": 0.8587
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0076",
+        "start": 32.505,
+        "end": 34.435,
+        "duration": 1.93,
+        "text": "々の悩みに耳を傾け寄",
+        "disc_prob": 0.8568
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0147",
+        "start": 120.445,
+        "end": 122.31,
+        "duration": 1.865,
+        "text": "るのがだいたい今",
+        "disc_prob": 0.8562
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0153",
+        "start": 403.845,
+        "end": 404.82,
+        "duration": 0.975,
+        "text": "リに誘ってきてました",
+        "disc_prob": 0.856
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0312",
+        "start": 493.63,
+        "end": 498.72,
+        "duration": 5.09,
+        "text": "先生これがなんだか分かりますか",
+        "disc_prob": 0.856
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0321",
+        "start": 599.775,
+        "end": 602.045,
+        "duration": 2.27,
+        "text": "先生が面接官じゃなかった場",
+        "disc_prob": 0.8553
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0222",
+        "start": 1870.555,
+        "end": 1873.29,
+        "duration": 2.735,
+        "text": "しげな時間を過ごせたと思います",
+        "disc_prob": 0.8549
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0012",
+        "start": 235.645,
+        "end": 236.81,
+        "duration": 1.165,
+        "text": "実在するんです",
+        "disc_prob": 0.8535
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0279",
+        "start": 135.105,
+        "end": 136.775,
+        "duration": 1.67,
+        "text": "くエキスパート自称できました",
+        "disc_prob": 0.8533
+      },
+      {
+        "source_id": "1405440540-1-192",
+        "blind_id": "V2R0129",
+        "start": 396.335,
+        "end": 397.76,
+        "duration": 1.425,
+        "text": "お願いします",
+        "disc_prob": 0.8523
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0160",
+        "start": 490.985,
+        "end": 493.015,
+        "duration": 2.03,
+        "text": "どう考えても曰くつきの代",
+        "disc_prob": 0.8523
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0214",
+        "start": 1749.47,
+        "end": 1750.965,
+        "duration": 1.495,
+        "text": "一緒にお店",
+        "disc_prob": 0.8508
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0266",
+        "start": 1511.725,
+        "end": 1515.68,
+        "duration": 3.955,
+        "text": "出ないとこんな平和なだけの国にはいません",
+        "disc_prob": 0.8503
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0224",
+        "start": 1877.65,
+        "end": 1879.25,
+        "duration": 1.6,
+        "text": "それだけは確か",
+        "disc_prob": 0.8496
+      },
+      {
+        "source_id": "28055832533-1-192",
+        "blind_id": "V2R0337",
+        "start": 390.815,
+        "end": 391.88,
+        "duration": 1.065,
+        "text": "いいんですか",
+        "disc_prob": 0.8494
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0268",
+        "start": 1545.14,
+        "end": 1547.925,
+        "duration": 2.785,
+        "text": "もしかして学生の勧誘でも",
+        "disc_prob": 0.8488
+      },
+      {
+        "source_id": "37141415568-1-192",
+        "blind_id": "V2R0388",
+        "start": 489.725,
+        "end": 490.975,
+        "duration": 1.25,
+        "text": "そんなわけないでしょう",
+        "disc_prob": 0.8458
+      },
+      {
+        "source_id": "37239655783-1-192",
+        "blind_id": "V2R0418",
+        "start": 836.755,
+        "end": 839.62,
+        "duration": 2.865,
+        "text": "は周知の事実なので今更困ることはないんです",
+        "disc_prob": 0.8443
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0304",
+        "start": 438.335,
+        "end": 442.63,
+        "duration": 4.295,
+        "text": "で志望動機って普通最初の方に聞くべきものではイ",
+        "disc_prob": 0.8439
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0260",
+        "start": 1438.315,
+        "end": 1440.08,
+        "duration": 1.765,
+        "text": "いくだけじゃないですか",
+        "disc_prob": 0.8422
+      },
+      {
+        "source_id": "28055832533-1-192",
+        "blind_id": "V2R0331",
+        "start": 156.855,
+        "end": 158.745,
+        "duration": 1.89,
+        "text": "何ですかその無駄に凝った仕",
+        "disc_prob": 0.8414
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0035",
+        "start": 542.24,
+        "end": 545.99,
+        "duration": 3.75,
+        "text": "先生まであのカレーを口にしたら私がうっか",
+        "disc_prob": 0.8406
+      },
+      {
+        "source_id": "1405440540-1-192",
+        "blind_id": "V2R0122",
+        "start": 235.625,
+        "end": 237.36,
+        "duration": 1.735,
+        "text": "心配になるほど汚いですね",
+        "disc_prob": 0.8394
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0267",
+        "start": 1543.155,
+        "end": 1545.16,
+        "duration": 2.005,
+        "text": "ところで何をしてるんです",
+        "disc_prob": 0.8386
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0085",
+        "start": 221.415,
+        "end": 224.14,
+        "duration": 2.725,
+        "text": "した大人が一体何をしているんですか",
+        "disc_prob": 0.8382
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0210",
+        "start": 1721.76,
+        "end": 1724.125,
+        "duration": 2.365,
+        "text": "別に気にしなくてもいいです",
+        "disc_prob": 0.8375
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0286",
+        "start": 226.395,
+        "end": 227.745,
+        "duration": 1.35,
+        "text": "ああ絶対嫌です",
+        "disc_prob": 0.8351
+      },
+      {
+        "source_id": "28055832533-1-192",
+        "blind_id": "V2R0325",
+        "start": 16.985,
+        "end": 18.395,
+        "duration": 1.41,
+        "text": "程度は知っていると思います",
+        "disc_prob": 0.8338
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0265",
+        "start": 1495.24,
+        "end": 1496.97,
+        "duration": 1.73,
+        "text": "偶然を装",
+        "disc_prob": 0.8329
+      },
+      {
+        "source_id": "28055832533-1-192",
+        "blind_id": "V2R0338",
+        "start": 413.305,
+        "end": 414.64,
+        "duration": 1.335,
+        "text": "かサヤさん",
+        "disc_prob": 0.8325
+      },
+      {
+        "source_id": "253810599-1-192",
+        "blind_id": "V2R0254",
+        "start": 1119.445,
+        "end": 1122.095,
+        "duration": 2.65,
+        "text": "き弟子らしいところなんてありました",
+        "disc_prob": 0.8317
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0151",
+        "start": 361.765,
+        "end": 363.82,
+        "duration": 2.055,
+        "text": "金に返還するとするでしょ",
+        "disc_prob": 0.8304
+      },
+      {
+        "source_id": "243358894-1-192",
+        "blind_id": "V2R0174",
+        "start": 947.34,
+        "end": 949.18,
+        "duration": 1.84,
+        "text": "あとなんかさっき",
+        "disc_prob": 0.8303
+      },
+      {
+        "source_id": "1405372904-1-192",
+        "blind_id": "V2R0109",
+        "start": 507.585,
+        "end": 509.655,
+        "duration": 2.07,
+        "text": "やはりさすがはフラン先生",
+        "disc_prob": 0.8286
+      },
+      {
+        "source_id": "37239655783-1-192",
+        "blind_id": "V2R0405",
+        "start": 413.295,
+        "end": 414.19,
+        "duration": 0.895,
+        "text": "りゃ喋ります",
+        "disc_prob": 0.8286
+      },
+      {
+        "source_id": "37141415568-1-192",
+        "blind_id": "V2R0385",
+        "start": 453.105,
+        "end": 454.4,
+        "duration": 1.295,
+        "text": "名前だったと思います",
+        "disc_prob": 0.8266
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0283",
+        "start": 182.29,
+        "end": 188.06,
+        "duration": 5.77,
+        "text": "じゃあどうやって教師になったんですか",
+        "disc_prob": 0.8241
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0051",
+        "start": 700.415,
+        "end": 701.765,
+        "duration": 1.35,
+        "text": "先生を見て楽しんで",
+        "disc_prob": 0.823
+      },
+      {
+        "source_id": "306672160-1-192",
+        "blind_id": "V2R0367",
+        "start": 18.56,
+        "end": 24.7,
+        "duration": 6.14,
+        "text": "皆さんこんにちは私ですイレイナです",
+        "disc_prob": 0.8227
+      },
+      {
+        "source_id": "306672160-1-192",
+        "blind_id": "V2R0369",
+        "start": 67.19,
+        "end": 69.085,
+        "duration": 1.895,
+        "text": "ガラスの古城",
+        "disc_prob": 0.822
+      },
+      {
+        "source_id": "280479210-1-192",
+        "blind_id": "V2R0313",
+        "start": 535.44,
+        "end": 539.435,
+        "duration": 3.995,
+        "text": "を言うんですか先生こういう子の方がお好みでしょ",
+        "disc_prob": 0.8205
+      },
+      {
+        "source_id": "28243657968-1-192",
+        "blind_id": "V2R0365",
+        "start": 1342.6,
+        "end": 1344.585,
+        "duration": 1.985,
+        "text": "ところで彼",
+        "disc_prob": 0.8188
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0023",
+        "start": 373.805,
+        "end": 375.995,
+        "duration": 2.19,
+        "text": "か素直になる薬",
+        "disc_prob": 0.8187
+      },
+      {
+        "source_id": "113814583-1-160",
+        "blind_id": "V2R0048",
+        "start": 668.405,
+        "end": 670.335,
+        "duration": 1.93,
+        "text": "が作る料理なら何でも美味しい",
+        "disc_prob": 0.8179
+      }
+    ],
+    "counts_by_bucket": {
+      "p>=0.9": 102,
+      "0.7<=p<0.9": 191,
+      "0.5<=p<0.7": 86,
+      "0.3<=p<0.5": 45,
+      "p<0.3": 24
+    }
+  }
+}

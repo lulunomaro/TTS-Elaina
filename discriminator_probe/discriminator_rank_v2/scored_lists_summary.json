@@ -1,0 +1,37 @@
+{
+  "version": "discriminator_scored_lists_v2",
+  "model": "LogisticRegression on CAM++ 192d word embeddings",
+  "base_training_interval_labels": 157,
+  "added_training_interval_labels": 48,
+  "training_words": 1977,
+  "positive_words": 1175,
+  "negative_words": 802,
+  "lists": {
+    "anime": "F:\\GPTSOVITS\\discriminator_probe\\discriminator_rank_v2\\anime_review_431_scored_v2.list",
+    "radio": "F:\\GPTSOVITS\\discriminator_probe\\discriminator_rank_v2\\radio_review_448_scored_v2.list"
+  },
+  "list_counts": {
+    "anime": 431,
+    "radio": 448
+  },
+  "list_tiers": {
+    "anime": {
+      "p>=0.9": 195,
+      "0.7-0.9": 206,
+      "0.5-0.7": 25,
+      "0.3-0.5": 4,
+      "<0.3": 1
+    },
+    "radio": {
+      "p>=0.9": 93,
+      "0.7-0.9": 173,
+      "0.5-0.7": 98,
+      "0.3-0.5": 54,
+      "<0.3": 30
+    }
+  },
+  "policy": "speaker probability only; retain semantic, quality, boundary and hard-mask gates; no training list written",
+  "training_started": false,
+  "existing_training_lists_modified": false,
+  "score_90_claimed": false
+}
